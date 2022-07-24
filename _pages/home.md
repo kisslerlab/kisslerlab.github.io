@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "EMIRG: The Epidemic Modeling, Inference, and Response Group"
+title: "The Kissler Lab"
 # header:
 #   image: "/assets/images/emirg.png"
 ---
