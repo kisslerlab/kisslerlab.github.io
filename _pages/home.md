@@ -6,10 +6,18 @@ title: "EMIRG: The Epidemic Modeling, Inference, and Response Group"
 #   image: "/assets/images/emirg.png"
 ---
 
-<br>
+<!-- <br>
 <center>
 <h1>EMIRG:</h1>
 <h3>The Epidemic Modeling, Inference, and Response Group</h3> <br> <br>
+<img src="assets/images/emirg-logo.png" style="width:25%">
+</center>
+<br>  -->
+
+<br>
+<center>
+<h1>The Kissler Lab</h1>
+<h3>Modeling and inference for outbreak preparedness and response</h3> <br> <br>
 <img src="assets/images/emirg-logo.png" style="width:25%">
 </center>
 <br> 

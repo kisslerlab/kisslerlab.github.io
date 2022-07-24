@@ -117,5 +117,5 @@ tag_archive:
 atom_feed:
   hide: true
 
-# masthead_title: "Home"
-masthead_title: "EMIRG: The Epidemic Modeling, Inference, and Response Group"
+masthead_title: "Home"
+# masthead_title: "EMIRG: The Epidemic Modeling, Inference, and Response Group"
