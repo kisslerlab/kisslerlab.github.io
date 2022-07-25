@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "The Kissler Lab"
+title: "Home"
 # header:
 #   image: "/assets/images/emirg.png"
 ---
