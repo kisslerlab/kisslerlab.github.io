@@ -16,14 +16,16 @@ title: "Home"
 
 <br>
 <center>
-<h1>The Kissler Lab</h1>
-<h3>Modeling and inference for outbreak preparedness and response</h3> <br> <br>
-<img src="assets/images/emirg-logo.png" style="width:25%">
+<h1>The Kissler Lab</h1> <br>
+<img src="assets/images/emirg-logo.png" style="width:20%"> <br>
+<h3>Modeling and inference for outbreak preparedness and response</h3> <!-- <br> <br> -->
 </center>
 <br> 
 
 ## News
-- __2022 Aug 10-13:__ Stephen will be at the [Contagion on Complex Social Systems](https://www.colorado.edu/amath/caccss2022){:target="_blank"} workshop at the University of Colorado Boulder. <br>
+### 2022
+- __Aug 10-13:__ Stephen will be at the [Contagion on Complex Social Systems](https://www.colorado.edu/amath/caccss2022){:target="_blank"} workshop at the University of Colorado Boulder. <br>
 Talk: _Linking viral kinetics with disease transmission and control_
 
 
+<!-- <a class="twitter-timeline" href="https://twitter.com/StephenKissler?ref_src=twsrc%5Etfw">Tweets by StephenKissler</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->

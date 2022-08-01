@@ -3,7 +3,7 @@ permalink: /people/StephenKissler/
 title: ""
 author:
   name   : "Stephen Kissler"
-  avatar : "/assets/images/headshot2.jpeg"
+  avatar : "/assets/images/headshot_hsph_2.jpg"
   bio    : PI, Assistant Professor<br>Department of Computer Science<br>University of Colorado Boulder
   links:
     - label: "CV"
