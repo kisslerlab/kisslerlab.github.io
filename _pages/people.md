@@ -54,7 +54,7 @@ title: "People"
 	<div class="imgcontainer">
 		<a href="/people/StephenKissler/"><img src="/assets/images/headshot2.jpeg" class="image">
 		<!-- <div class="overlay">Stephen Kissler</div> --></a>
-		<b>Stephen Kissler</b><br>PI, Asst. professor<br>
+		<b>Stephen Kissler</b><br>PI, Asst. Professor<br>
 	</div>
 	<div class="imgcontainer">
 		<a href="/people/"><img src="/assets/images/frame.png" class="image">
