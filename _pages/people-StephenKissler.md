@@ -23,3 +23,5 @@ author:
       url: "mailto:skissler@hsph.harvard.edu"
 author_profile: true
 ---
+
+<img src="assets/images/summary.png">
