@@ -10,11 +10,23 @@ Our lab is dedicated to __improving society's ability to prepare for, manage, an
 ### Linking within- and between-host pathogen dynamics
 Epidemics are [self-similar](https://en.wikipedia.org/wiki/Self-similarity) across multiple scales: the rise and fall of cases during an outbreak are mirrored by the [rise and fall of viral load](https://www.bmj.com/content/bmj/371/bmj.m3862/F2.large.jpg) during an infection. To control epidemics, we need to understand how within-host pathogen dynamics translate into between-host transmission events. We develop [adaptive experimental designs](https://en.wikipedia.org/wiki/Adaptive_design_(medicine)) and statistical approaches to infer viral kinetics and their relationship with contagiousness, lending insights into outbreak dynamics, optimal epidemic control, and the fundamental characteristics of viruses themselves.
 
+<center>
+<img src="/assets/images/viralanimation.gif" width="66%">
+</center>
+
 ### Connecting interpersonal contact networks and mobility with disease transmission
 Pathogens have only limited power over their own ability to spread; the rest is up to the structure of our communities. Human interactions are unbelievably [complex](https://en.wikipedia.org/wiki/Complex_network), and this complexity can give rise to unexpected patterns of viral transmission and evolution. We seek to understand this relationship between human behavior and pathogen transmission by measuring critical contact network structures and modeling the behavior of pathogens as they spread through highly structured, dynamic populations. 
 
+<center>
+<img src="/assets/images/zoomnet.gif" width="100%">
+</center>
+
 ### Mapping the ecology of co-circulating respiratory pathogens
 Pathogens rarely spread in an ecological vacuum. Instead, microbes must jockey for a foothold against both related strains and unrelated species, all while their hosts try to inhibit their spread. The co-circulation of pathogens poses a major public health challenge, since every pathogen features distinct transmission and disease characteristics. However, it also opens potential opportunities, where well-placed resources can be optimally distributed to monitor and control the spread of many pathogens at once. We study the ecological relationships between respiratory pathogens, paying special attention to the perturbations in transmission that were brought on by behavioral changes during the COVID-19 pandemic. Using mathematical models, we infer immunological and environmental factors that influence the joint transmission of respiratory pathogens and design strategies for their optimal surveillance and control.
+
+<center>
+<img src="/assets/images/virusrun.gif" width="80%">
+</center>
 
 ## Selected Publications
 
