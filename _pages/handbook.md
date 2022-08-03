@@ -10,14 +10,23 @@ title: ""
 _This page is under construction._
 
 ## Welcome! <!-- ----------------------------------------------------------- -->
+I'm so glad you're intersted in the lab. Whether you're a prospective student or postdoc, a current lab member, or just someone who'd like to see more about our inner workings, here you'll find an overview of how we do our thing. 
 
 ## Mission, expectations, and values <!-- ---------------------------------- -->
 
 ### Our mission
+Our mission is to conduct rigorous, impactful science for the public good. Our particular approach to that includes: 
+1. Building up our society's intellectual and physical capacity to anticipate, manage, and heal from crises, especially as they relate to infectious diseases;
+2. Conducting our research in an open, honest, and responsive manner; 
+3. Fostering a healthy scientific community both within and beyond our lab.
 
 ### Academic integrity 
+Scientific integrity is of the utmost importance, especially when dealing with research questions that by definition can have far-reaching impacts on many peoples' lives. It's OK to be wrong; I'm wrong all the time. The important thing is to learn from our mistakes, to humbly accept criticism, and to defend our ideas based on their own merit rather than by our personal stake in their success. At a baseline, this means to never "fudge" data or images, to post the maximum amount of code and data that doesn't compromise privacy or safety, and to respond to reasonable requests for information from other scientists. 
+
+People can sometimes be unnecessarily critical, even vicious, especially in the age of social media. Twitter is an amazing communication tool and yet it can be a frightening place to be. Online confrontations are often a major test of integrity. Academic integrety requires personal integrety in all of our scientific dealings, both online and offline; if someone has said something annoying, write our your thoughts in a text document and then wait to actually reply until you've cooled off. If someone has said something offensive, hateful, or threatening, tell me or someone else who you trust, and we'll deal with it together, immediately. 
 
 ### Equity and Justice
+
 
 ### My expectations of lab members
 
