@@ -15,7 +15,7 @@ I'm so glad you're intersted in the lab. Whether you're a prospective student or
 ## Mission, expectations, and values <!-- ---------------------------------- -->
 
 ### Our mission
-Our mission is to conduct rigorous, impactful science for the public good. Our particular approach to that includes: 
+Our mission is to conduct rigorous, impactful science for the public good. Our  approach to that includes: 
 1. Building up our society's intellectual and physical capacity to anticipate, manage, and heal from crises, especially as they relate to infectious diseases;
 2. Conducting our research in an open, honest, and responsive manner; 
 3. Fostering a healthy scientific community both within and beyond our lab.
@@ -23,14 +23,35 @@ Our mission is to conduct rigorous, impactful science for the public good. Our p
 ### Academic integrity 
 Scientific integrity is of the utmost importance, especially when dealing with research questions that by definition can have far-reaching impacts on many peoples' lives. It's OK to be wrong; I'm wrong all the time. The important thing is to learn from our mistakes, to humbly accept criticism, and to defend our ideas based on their own merit rather than by our personal stake in their success. At a baseline, this means to never "fudge" data or images, to post the maximum amount of code and data that doesn't compromise privacy or safety, and to respond to reasonable requests for information from other scientists. 
 
-People can sometimes be unnecessarily critical, even vicious, especially in the age of social media. Twitter is an amazing communication tool and yet it can be a frightening place to be. Online confrontations are often a major test of integrity. Academic integrety requires personal integrety in all of our scientific dealings, both online and offline; if someone has said something annoying, write our your thoughts in a text document and then wait to actually reply until you've cooled off. If someone has said something offensive, hateful, or threatening, tell me or someone else who you trust, and we'll deal with it together, immediately. 
+People can sometimes be unnecessarily and unhelpfully critical, especially in the age of social media. Twitter is an amazing communication tool and yet it can be a frightening place to be. Online confrontations are often a major test of integrity. Academic integrity requires personal integrity in all of our scientific dealings, both online and offline. If someone has said something annoying, write out your unfiltered thoughts in a private text document and then wait to write your actual reply until you've cooled off. If someone has said something offensive, hateful, or threatening, tell me or someone else who you trust, and we'll deal with it together, immediately. 
 
 ### Equity and Justice
+For our purposes, [equity](https://onlinepublichealth.gwu.edu/resources/equity-vs-equality/) involves providing to each according to the needs of each, and [justice](https://onlinepublichealth.gwu.edu/resources/equity-vs-equality/) is essentially long-term equity, achieved through systems-level change. Both are key pillars of our lab, guiding both the work we do and the way we do it. We work towards these aims in the following ways: 
+1. __Outreach:__ There remain huge disparities between the overall demographic composition of the U.S. and the demographic composition of the people who pursue higher education and academic careers. This ultimately puts a limit on our ability, as researchers, to be as scientifically creative and socially aware as we might otherwise be. One of the most fundamental ways we can help to address this issue is by sharing what we do with students who might not otherwise see scientific research as a viable career option. We'll schedule periodic outreach activities at schools in the Denver/Boulder area as well as in rural districts to do our part to close this gap. 
+2. __Recruitment:__ I aim to maintain a diverse lab with trainees from a wide variety of backgrounds. Lab openings will be posted publicly to try to draw from a wide pool of applicants. This is an area where I'm actively trying to learn, since I don't yet know how best to advertise to prospective trainees from underrepresented backgrounds. If you know of any schemes or have any suggestions, please do let me know! 
+3. __Lab community:__ As a lab, our greatest resource is each other. I will provide various opportunities for lab members to share about their life experiences, from what they're currently experiencing to what got them to where they are. Each new lab member will have the opportunity to use their first lab meeting to share a bit about who they are, where they came from, and what they're aiming towards. The aim of this is to get us thinking about how other people experience the world and to bring that experience into our own daily workings. 
 
+Also, it's one of my highest priorities to make sure that each lab member has the resources they need to feel fulfilled and at the top of their game. I'll do my best to anticipate what those things are, but if there's anything I've missed, please don't hesitate to let me know and we'll work to address it. I encourage you to think broadly about this – whether its some piece of technology, a change in our meeting times, a change in the vocabulary I or other lab members are using, suggestions for how to navigate healthcare resources, or just some time off, we can figure something out. I recognize that not all lab members will need the same things – this is one of the principles of equity – so I want to make sure that, whatever it is you do need, you're getting it. 
+
+4. __Research:__ We are public health scientists, and as such, issues justice and equity lie at the heart of our research. I encourage trainees to think deeply about how their research will impact various communities and to bring that thinking into both their analysis and their write-ups of their work. Many of our research problems will involve optimizing something, and I encourage trainees to think about what "optimal" actually means – is it a reduction in overall morbidity and mortality? For whom? At what costs? Could it backfire? Will it help reduce existing inequities, or could it exacerbate them? Whenever possible, I encourage trainees to incorporate these sorts of questions formally into their analyses. 
 
 ### My expectations of lab members
+The rest of this document contains more detail on my expectations of lab members and my expectations of myself, but in brief, I expect that lab members will: 
+1. Speak and act respectfully towards their colleagues, collaborators, and the public;
+2. Put their best effort into their work;
+3. Communicate responsively; 
+4. Conduct their research in an open, honest, and rigorous manner; 
+5. Let me or another trusted mentor know if they are facing any challenges that they are unable to resolve on their own, and especially if they feel they are being treated in a way that makes them uncomfortable; 
+6. Think creatively and deeply about how they can best support the public good, through their research and other academic work. 
 
 ### My pledge to lab members 
+In turn, I will: 
+1. Speak and act respectfully toward all lab members, colleagues, and the public;
+2. Respond to good-faith requests for changes in how I act or speak;
+3. Communicate responsively; 
+4. Provide feedback on work in a timely and gracious manner; 
+5. Support your career development with guidance, letters, and introductions to colleagues;
+6. Maintain a physical and social lab environment that is conducive to enjoying the process of producing good work, and prioritizing your well-being above all else.
 
 ## Lab life <!-- ----------------------------------------------------------- -->
 
