@@ -145,7 +145,7 @@ Below is an incomplete list of recent collaborators with whom I can put you in c
 ## Funding opportunities <!-- ---------------------------------------------- -->
 
 ### Graduate students
-- __F30:__ NIH training grant for research in the health sciences. 
+- __F31:__ NIH training grant for research in the health sciences. 
 
 ### Postdocs 
 - __F32:__ NIH training grant for research in the health sciences 
