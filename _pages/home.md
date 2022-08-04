@@ -16,11 +16,12 @@ title: "Home"
 
 <br>
 <center>
-<h1>The Kissler Lab</h1> <br>
+<!-- <h1>The Kissler Lab</h1> <br> -->
 <!-- <img src="assets/images/emirg-logo.png" style="width:20%"> <br> -->
 <!-- <img src="assets/images/emirg-color-2.png" style="width:20%"> <br> -->
-<img src="assets/images/emirg-fullredyellow.png" style="width:20%"> <br>
-<h3>Modeling and inference for outbreak preparedness and response</h3> <!-- <br> <br> -->
+<!-- <img src="assets/images/emirg-fullredyellow.png" style="width:20%"> <br> -->
+<img src="assets/images/summary-collective.png" style="width:50%">
+<!-- <h3>Modeling and inference for outbreak preparedness and response</h3> --> <!-- <br> <br> -->
 </center>
 <br> 
 

@@ -7,7 +7,9 @@ permalink: /handbook/
 title: ""
 ---
 
-_This page is under construction._
+<!-- _This page is under construction._ -->
+
+# Lab Handbook
 
 ## Welcome! <!-- ----------------------------------------------------------- -->
 I'm so glad you're intersted in the lab. Whether you're a prospective student or postdoc, a current lab member, or just someone who'd like to see more about our inner workings, here you'll find an overview of how we do our thing. 
