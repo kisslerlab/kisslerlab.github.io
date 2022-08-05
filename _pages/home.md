@@ -1,9 +1,10 @@
 ---
 layout: splash
 permalink: /
-title: "Home"
-# header:
-#   image: "/assets/images/emirg.png"
+title: "The Kissler Lab"
+excerpt: Department of Computer Science, University of Colorado Boulder
+header:
+  overlay_image: "/assets/images/microscopebanner_desat.png"
 ---
 
 <!-- <br>
@@ -14,7 +15,7 @@ title: "Home"
 </center>
 <br>  -->
 
-<br>
+<!-- <br> -->
 <center>
 <!-- <h1>The Kissler Lab</h1> <br> -->
 <!-- <img src="assets/images/emirg-logo.png" style="width:20%"> <br> -->
