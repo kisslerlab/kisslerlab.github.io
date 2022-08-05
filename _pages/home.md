@@ -27,6 +27,7 @@ title: "Home"
 
 ## News
 ### 2022
+- __Sep 7-9:__ Stephen will be at the [MIDAS Network Annual Meeting](https://midasnetwork.us/midas-network-annual-meeting-midas-2022/).
 - __Aug 10-13:__ Stephen will be at the [Contagion on Complex Social Systems](https://www.colorado.edu/amath/caccss2022){:target="_blank"} workshop at the University of Colorado Boulder. <br>
 Talk: _Linking viral kinetics with disease transmission and control_
 
