@@ -13,5 +13,7 @@ main:
     url: /teaching/
   - title: "Handbook"
     url: /handbook/
+  - title: "Talks"
+    url: /talks/
   - title: "Contact"
     url: /contact/
