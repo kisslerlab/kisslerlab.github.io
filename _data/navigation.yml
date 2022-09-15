@@ -13,6 +13,8 @@ main:
     url: /teaching/
   - title: "Handbook"
     url: /handbook/
+  - title: "Guides for the Perplexed"
+    url: /guides/
   - title: "Talks"
     url: /talks/
   - title: "Contact"

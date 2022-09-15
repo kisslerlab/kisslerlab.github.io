@@ -21,7 +21,7 @@ header:
 <!-- <img src="assets/images/emirg-logo.png" style="width:20%"> <br> -->
 <!-- <img src="assets/images/emirg-color-2.png" style="width:20%"> <br> -->
 <!-- <img src="assets/images/emirg-fullredyellow.png" style="width:20%"> <br> -->
-<img src="assets/images/summary-collective.png" style="width:50%">
+<img src="assets/images/summary-collective-corrected.png" style="width:50%">
 <!-- <h3>Modeling and inference for outbreak preparedness and response</h3> --> <!-- <br> <br> -->
 </center>
 <br> 
@@ -30,7 +30,7 @@ header:
 ### 2022
 - __Sep 7-9:__ Stephen will be at the [MIDAS Network Annual Meeting](https://midasnetwork.us/midas-network-annual-meeting-midas-2022/).
 - __Aug 10-13:__ Stephen will be at the [Contagion on Complex Social Systems](https://www.colorado.edu/amath/caccss2022){:target="_blank"} workshop at the University of Colorado Boulder. <br>
-Talk: _Linking viral kinetics with disease transmission and control_
+Talk: [_Linking viral kinetics with disease transmission and control_](/talks/Kissler_CCSS/index.html)
 
 
 <!-- <a class="twitter-timeline" href="https://twitter.com/StephenKissler?ref_src=twsrc%5Etfw">Tweets by StephenKissler</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
