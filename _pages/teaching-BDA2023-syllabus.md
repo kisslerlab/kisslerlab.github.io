@@ -15,6 +15,20 @@ __Office hours:__ TBD <br>
 
 ## Motivation and learning objectives
 
+Bayesian inference is the state of the art when it comes to conducting rigorous, principled statistics on scientific quantities. Bayesian statistical theory itself is beautiful in how it parallels the way we naturally think: we engage with the world with sets of expectations that are adjusted iteratively through experience. Also, in the Bayesian framework, answers take the form of distributions rather than specific values, which I think is the most honest way of capturing the limits of our knowledge: no matter how much we've learned, we'll always be just a little bit uncertain about things, and that's ok. 
+
+Unlike much of frequentist statistics (think of your grandmother's hypothesis testing), Bayesian inference usually makes heavy use of computers. The downside of this is that Bayesian inference can take time, and the algorithms can be fiddly to code well. The upside of this is that, with the help of computers, we can build unbelievably complex, layered models that allow us to make remarkable insights about the systems we study, going well past the bounds of traditional statistics. 
+
+By completing this course, you will be able to: 
+- Identify problems that would benefit from Bayesian thinking 
+- Explain the intuition behind Bayesian inference 
+- Develop hierarchical models to describe scientific phenomena 
+- Write computer code to fit these models to data
+- Diagnose good vs. bad fits and understand how to fix the bad ones 
+- Communicate the results of a Bayesian analysis in a clear, principled, and rigorous manner
+
+Ready? Let's dive in. 
+
 ## Prerequisites
 
 Students should have completed the Calculus I/II sequence and Introductory Probability. Students should also have basic experience coding in R, Python, MATLAB, and/or Julia. We will extensively use the [Stan platform](https://mc-stan.org/) for Bayesian computation, though no experience with that is necessary. Examples will be conducted in R.  
