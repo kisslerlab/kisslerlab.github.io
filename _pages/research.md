@@ -41,6 +41,11 @@ Pathogens rarely spread in an ecological vacuum. Instead, microbes must jockey f
 	<b>Stephen M. Kissler,</b> Bill Wang, Ateev Mehrotra, Michael Barnett, Yonatan H. Grad. <i>medRxiv</i> (2021) <a href="https://www.medrxiv.org/content/10.1101/2021.11.17.21266458v1" target="_blank">10.1101/2021.11.17.21266458</a> 
 	</div>
 
+1. Drivers of racial/ethnic disparities in antibiotic consumption in the United States <br> 
+	<div class="small">
+	<b>Stephen M. Kissler*,</b> Scott W. Olesen*, Sanjat Kanjilal, Daphne S. Sun, Yonatan H. Grad. <i>medRxiv</i> (2022) <a href="https://www.medrxiv.org/content/10.1101/2021.12.09.21266965v3" target="_blank">10.1101/2021.12.09.21266965</a> 
+	</div>
+
 ### Peer-reviewed publications
 
 1. Viral dynamics of acute SARS-CoV-2 infection and applications to diagnostic and public health strategies <br> 

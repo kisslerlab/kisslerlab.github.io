@@ -5,7 +5,7 @@ title: "Guidance for writing manuscripts"
 
 _This page is under development._ 
 
-- Note on preferences in different fields, and how we mainly write for medical and public health journals, sometimes computational biology (but usually the medical format works best) 
+<!-- - Note on preferences in different fields, and how we mainly write for medical and public health journals, sometimes computational biology (but usually the medical format works best) 
 - Background/motivation for IMRAD - note it's a strict formula, but this actually helps creativity rather than hindering it. 
 - Use past tense! 
 - Active voice 
@@ -17,4 +17,4 @@ _This page is under development._
 - Reference managers 
 - Writing tools (Scrivener, Scapple, Markdown, Word, Overleaf)
 
-- Further reading 
+- Further reading  -->
