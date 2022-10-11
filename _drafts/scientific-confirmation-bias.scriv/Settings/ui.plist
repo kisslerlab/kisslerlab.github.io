@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NotesScaleFactor</key>
+	<real>1</real>
+	<key>binderSplitFrames</key>
+	<array>
+		<string>{{0, 0}, {266, 814}}</string>
+		<string>{{267, 0}, {871, 814}}</string>
+	</array>
+	<key>bookmarksSelectionInfo</key>
+	<dict>
+		<key>1468BF3F-8CB3-4B1F-A08C-EEE564476C10</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>1CE20B5E-BF02-46D6-9C62-AF1830A34BB7</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>5AB42A4A-0E4F-4F55-8271-F064564E9FD6</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>7729A015-027B-47F4-89B3-75E9437D3822</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>7EAEDBFD-7233-42B1-A6FC-E83D4F222DEE</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>AD1E1D7A-3F47-4B02-ABFA-A7E2EBCFD7EE</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>F48062D3-6EBF-4083-8B26-40F1D6DC7CFD</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+	</dict>
+	<key>collectionsRepresentedBinderDocumentsInfo</key>
+	<dict>
+		<key>MainID</key>
+		<string></string>
+		<key>SupportingID</key>
+		<string></string>
+	</dict>
+	<key>editorSplitFrames</key>
+	<array>
+		<string>{{0, 0}, {488, 224}}</string>
+	</array>
+	<key>fullScreenBackgroundFade</key>
+	<real>1</real>
+	<key>fullScreenHorizontalPaperPosition</key>
+	<integer>2</integer>
+	<key>fullScreenInspectorMode</key>
+	<integer>0</integer>
+	<key>fullScreenInspectorVisible</key>
+	<false/>
+	<key>fullScreenPaperHeight</key>
+	<integer>-1</integer>
+	<key>fullScreenPaperWidth</key>
+	<integer>850</integer>
+	<key>fullScreenTextEditorSettings</key>
+	<dict>
+		<key>textScaleFactor</key>
+		<real>1.25</real>
+	</dict>
+	<key>fullScreenVerticalPaperPosition</key>
+	<integer>2</integer>
+	<key>inspectorSplitFrames</key>
+	<array>
+		<string>{{0, 0}, {288, 804}}</string>
+	</array>
+	<key>inspectorWidth</key>
+	<real>245</real>
+	<key>mainDocumentEditor.dockedQRTextSettings</key>
+	<dict>
+		<key>textScaleFactor</key>
+		<real>1</real>
+	</dict>
+	<key>mainDocumentEditor.scrollRect</key>
+	<string>{{0, 0}, {620, 728}}</string>
+	<key>mainDocumentEditor.textEditorState</key>
+	<dict>
+		<key>textScaleFactor</key>
+		<real>1</real>
+	</dict>
+	<key>mainWindowFrame</key>
+	<string>0 33 1138 842 0 0 1440 875 </string>
+	<key>supportingDocumentEditor.dockedQRTextSettings</key>
+	<dict>
+		<key>textScaleFactor</key>
+		<real>1</real>
+	</dict>
+	<key>supportingDocumentEditor.scrollRect</key>
+	<string>{{0, 0}, {620, 294}}</string>
+	<key>supportingDocumentEditor.textEditorState</key>
+	<dict>
+		<key>textScaleFactor</key>
+		<real>1</real>
+	</dict>
+	<key>supportingDocumentViewIsCurrent</key>
+	<false/>
+</dict>
+</plist>
