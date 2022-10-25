@@ -28,6 +28,8 @@ header:
 
 ## News
 ### 2022
+- __Oct 17:__ Stephen will be giving a guest lecture for Advanced Methods in Infectious Disease Epidemiology at Boston University. <br>
+Talk: [_Understanding SARS-CoV-2 using simple models: between-host and within-host dynamics_](/talks/Kissler_BS825/index.html)
 - __Oct 11:__ Our manuscript on the impact of chronic comorobidities on pediatric antibiotic prescribing is now out in [CID](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciac811/6748284)!
 - __Sep 7-9:__ Stephen will be at the [MIDAS Network Annual Meeting](https://midasnetwork.us/midas-network-annual-meeting-midas-2022/).
 - __Aug 10-13:__ Stephen will be at the [Contagion on Complex Social Systems](https://www.colorado.edu/amath/caccss2022){:target="_blank"} workshop at the University of Colorado Boulder. <br>
