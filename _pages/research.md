@@ -31,10 +31,6 @@ Pathogens rarely spread in an ecological vacuum. Instead, microbes must jockey f
 ## Selected Publications
 
 ### In prep, submitted, in press
-1. The impact of immune history and variant on SARS-CoV-2 viral kinetics and infection rebound <br> 
-	<div class="small">
-	James A. Hay*, <b>Stephen M. Kissler*,</b> Joseph R. Fauver*, Christina Mack*, Caroline G. Tai, Radhika M. Samant, Sarah Connolly, Deverick J. Anderson, Gaurav Khullar, Matthew MacKay, Miral Patel, Shannan Kelly, April Manhertz, Isaac Eiter, Daisy Salgado, Tim Baker, Ben Howard, Joel T. Dudley, Christopher E. Mason, Manoj Nair, Yaoxing Huang, David D. Ho, Nathan D. Grubaugh, Yonatan H. Grad. <i>medRxiv</i> (2022) <a href="https://www.medrxiv.org/content/10.1101/2022.01.13.22269257v2" target="_blank">10.1101/2022.01.13.22269257</a> 
-	</div>
 
 1. Drivers of racial/ethnic disparities in antibiotic consumption in the United States <br> 
 	<div class="small">
@@ -42,6 +38,11 @@ Pathogens rarely spread in an ecological vacuum. Instead, microbes must jockey f
 	</div>
 
 ### Peer-reviewed publications
+
+1. Quantifying the impact of immune history and variant on SARS-CoV-2 viral kinetics and infection rebound: a retrospective cohort study <br> 
+	<div class="small">
+	James A. Hay*, <b>Stephen M. Kissler*,</b> Joseph R. Fauver*, Christina Mack*, Caroline G. Tai, Radhika M. Samant, Sarah Connolly, Deverick J. Anderson, Gaurav Khullar, Matthew MacKay, Miral Patel, Shannan Kelly, April Manhertz, Isaac Eiter, Daisy Salgado, Tim Baker, Ben Howard, Joel T. Dudley, Christopher E. Mason, Manoj Nair, Yaoxing Huang, John DiFiori, David D. Ho, Nathan D. Grubaugh, Yonatan H. Grad. <i>eLife</i> (2022) <a href="https://www.medrxiv.org/content/10.1101/2022.01.13.22269257v2" target="_blank">10.1101/2022.01.13.22269257</a> 
+	</div>
 
 1. Impact of respiratory infection and chronic comorbidities on early pediatric antibiotic dispensing in the United States <br> 
 	<div class="small">
