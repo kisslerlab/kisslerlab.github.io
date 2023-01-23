@@ -15,11 +15,9 @@ I get it: writing is difficult, a little intimidating, always exhausting. You mi
 
 But here's the secret: writing isn't what you do once you've figured out the story. _Writing is how you figure out the story_. 
 
-For those of us in science and mathematics, it's easy to forget that we, as humans, think most fundamentally in narratives. That proof you just worked out on your homework? It's a narrative, complete with an exposition, climax, and resolution (QED, my friends). Your code? Same thing. You load packages to establish the story's setting, then you walk through the plot piece by piece, until the conflict resolves and the calculations fall into place.
+Think about the last time you wrote a proof. How did you do it? Certainly not by staring at the sky until BANG, a fully-formed argument flashed before your eyes and you wrote it down, perfectly, beginning to end. Nor was your last bit of Python code written out as one perfect, bug-free script. No, proofs and code emerge from an organic process: you sketch out a few tentative ideas, test them, scrap some, get inspired by some others, write some more, and on and on until you get that funny feeling in your chest that tells you you're done. Prose is no different. 
 
-How did this proof come about? Certainly not by staring at the sky until BANG, a fully-formed argument flashed before your eyes and you wrote it down, straight from the mouth of God. Nor was this code originally concieved as a cohesive unit, from beginning to end. Proofs and code emerge in their final form from the backwards, inside-out and upside-down process of - you got it - writing. Prose is no different. 
-
-From this point of view, writing is a central part of the scientific process. It's not just how we communicate ideas to others; it's also how we communicate ideas to ourselves. Writing is the clearest way to expose holes in our research that need to be filled with new experiments. It's the clearest way to achieve flashes of inspiration, made possible by seing our own ideas laid out linearly on a page. Waiting to write means passing up opportunities to be a more rigorous, thoughtful, and creative scientist. 
+Writing, conceived like this, is a central part of the scientific process. It's not just how we communicate ideas to others; it's also how we communicate ideas to ourselves. Writing is the clearest way to expose holes in our research that need to be filled with new experiments. It's the clearest way to achieve flashes of inspiration, made possible by seing our own ideas laid out linearly on a page. Waiting to write means passing up opportunities to be a more rigorous, thoughtful, and creative scientist. 
 
 ### But... how? 
 
@@ -29,7 +27,7 @@ And so the next words never come. The page stays mostly blank, and your fear of 
 
 A formidable barrier, to be sure. To fight against it, we need a powerful, constant reminder of what we actually believe about writing: that it's a process, that it's scrappy, that we're not afraid. 
 
-There are various strategies to achieve this. One way is to never, ever start drafting something from the beginning (I have some recommendations on where to start in the section on __Structure__). Another is to hammer out your first few drafts with pen and paper. My favorite, though is: 
+There are various strategies to achieve this. One way is to never, ever start drafting something from the beginning and instead to dive right into the middle. Another is to hammer out your first few drafts with pen and paper. My favorite, though is: 
 
 <center>
 <b>The Shitty First Draft </b>
@@ -40,11 +38,11 @@ The idea behind this is explained in a brilliant essay by the novelist Anne Lamo
 come through and onto the page. If one of the characters wants to say, "Well, so
 what, Mr. Poopy Pants?," you let her. No one is going to see it. If the kid wants to get into really sentimental, weepy, emotional territory, you let him. Just get it all down on paper because there may be something great in those six crazy pages that you would never have gotten to by more rational, grown-up means. There may be something in the very last line of the very last paragraph on page six that you just love, that is so beautiful or wild that you now know what you're supposed to be writing about, more or less, or in what direction you might go -- but there was no way to get to this without first getting through the first five and a half pages.
 
-This is geared towards creative writing, but scientific writing is no different. Send your cells up into space and write how they felt about it. Give your database a voice and let it tell the reader how its day was. 
+This is geared towards creative writing, but scientific writing is no different. Send your cells up into space and let them experience zero gravity for an afternoon. Discuss how your neural net feels about ketchup on eggs. 
 
-Lest I forget that this is my aim, and the old habits creep back in, I will literally write the words __Shitty First Draft__ on the top of the page, in big font, so that I can't possibly fool myself into thinking that this is anything more. 
+Lest I forget that shitty is my aim, and the stuffy old habits creep back in, I often literally write the words __Shitty First Draft__ on the top of the page, in big font, so that I can't possibly fool myself into thinking that this is anything more. 
 
-Everyone's set-point for how fanciful they'll allow their shitty first draft to be will be different. I'm rather quiet, so my "shitty first draft" just means finding the bravery to write down half-sentences, misspellings, song lyrics that happen to pop into my head midway through the Discussion. The key is that it's not just ok for this draft to be shitty: _the goal is for it to be shitty_, whatever that means to you. It's the only way to counteract the stiff habits we've built up over so many years. It sounds crazy, but for me, it's indispensible. 
+Everyone's set-point for how fanciful they'll allow their shitty first draft to be will be different. I'm fairly reserved, so my "shitty first draft" usually just involves half-sentences, misspellings, and song lyrics that happen to pop into my head. The key is that it's not just ok for this draft to be shitty: _the goal is for it to be shitty_, whatever that means to you. It's the only way to counteract the stiff habits we've built up over so many years. It sounds crazy, but for me, it's indispensible. 
 
 ## Types of manuscripts 
 
@@ -116,19 +114,19 @@ It's helpful to conclude the Discussion with a few concluding sentences. Never, 
 
 ## Style 
 
-Scientific is no longer meant to be dry and impersonal. The philosophy of science has matured, and we now understand that no science is truly objective. Therefore, it is ok, and encouraged, to use "we". 
+Scientific writing is no longer supposed to be dry and impersonal. Dry scientific writing was the result of the misguided belief that the scientist should be totally detached from the science, and thus should be absent from any descriptions of the science. This led to awful paragraphs full of passive voice, with inanimate objects marching through all sorts of transitions as if by magic. The philosophy of science has matured, and we now understand that no science is truly objective. Therefore, it is ok, and encouraged, to use "we". 
 
 Using "we" often helps you to speak in __active voice__ (passive: "the simulations were run on..."; active: "We ran the simulations on..."). Active voice is almost always easier to understand and more pleasurable to read. 
 
-Use simple words. You didn't "endeavor" - you "tried". This applies to both non-scientific and to scientific words. Jargon is your enemy. When you can't avoid using big words, help the reader with a description in parentheses: we collected samples using combined anterior naries and oropharyngeal (nose and sputum) specimens. 
+Use simple words. You didn't "endeavor" - you "tried". This applies to both non-scientific and to scientific words. Jargon is your enemy. When you can't avoid using big words, help the reader with a description in parentheses: we collected samples using combined anterior nares and oropharyngeal (nose and throat) specimens. 
 
 Use short sentences. Sentences should contain one idea each. Use find-and-replace to find semicolons and hyphens once you've finished writing your manuscript. Take out any that could be replaced with a period. 
 
 When possible, write in the past tense. The manuscript describes something that you or others did in the past. This is true for the introduction, methods, and results. Sometimes the present or future tenses can justifiably sneak into the Discussion, but if you use them, make sure you have a reason to. 
 
-One of the most challenging parts of scientific writing is giving the prose a direction, rather than making it a list of true statements. One way to achieve this is to pay close attention to the beginnings and endings of your sentences. The first and last words of a sentence are the most important. Make sure they count. Try to conclude sentences with a word that foreshadows what the next sentence will be about. (Say you've written a sentence about racial disparities in health research. For the previous sentence, you could say "Racial disparities have plagued scientific research for years.", or "Scientific research has long been plagued by Racial Disparities." The second one is better.) Note that, as in the previous example, this rule could cause you to introduce some passive voice into your manuscript. That's ok - most of the time, active voice will be compatible with flow, but when it's not, prioritize flow. 
+One of the most challenging parts of scientific writing is giving the prose a direction, rather than making it a list of true statements. One way to achieve this is to pay close attention to the beginnings and endings of your sentences. The first and last words of a sentence are the most important. Make sure they count. Try to conclude sentences with a word that foreshadows what the next sentence will be about. Note that this rule could cause you to introduce some passive voice into your manuscript. That's ok! Most of the time, active voice will be compatible with flow, but when it's not, prioritize flow. 
 
-Papers should be interpretable by reading just the first sentence of each paragraph. Make sure that all of your paragraphs are structured such that the topic of the paragraph is right there at the beginning. If the topic shifts midway through, make a new paragraph. Short paragraphs are fine. 
+Papers should be interpretable by reading just the first sentence of each paragraph. Make sure that all of your paragraphs are structured such that the topic of the paragraph is right at the beginning. If the topic shifts midway through, make a new paragraph. Short paragraphs are fine. 
 
 There are loads of style books out there to help with composing manuscripts. I especially like Strunk/White's "The Elements of Style". These are often worth their weight in gold! 
 
@@ -173,6 +171,8 @@ If you do decide to revise and resubmit, the journal usually gives you a few wee
 Your re-submission may go back out for review, or the Editor may look through your revisions and deem them sufficient for publication. If it goes for review, then it's a rinse-and-repeat of the previous steps. If it's accepted, then congratulations! Your work has found a home! You're not done yet, though, because the journal will eventually send you a list of edits to make sure that the writing is in accordance with the journal's style rules. Once you've finally made it through that process, take a deep breath: you're done! 
 
 It's important to note that the review process can be unbelievably stochastic. Works of high value often get rejected, and works of questionable value sometimes get accepted at surprising places. One of the tasks of a scientist-in-training is to slowly cultivate a sense of detachment from the outcomes of any particular submission. This is difficult - I still hate it when I get things rejected - but it's a fact of scientific life (for now, until we find a way to overhaul the publishing system), so it's best if we find a way to make some kind of peace with it amidst all the frustrations. I'm here to help with that, too. 
+
+For more information, you can also check out Dan Larremore's [slides on peer review](https://drive.google.com/file/d/1g7VSbUkF9wBszcjHCeZlGHoHqUqYfDC0/view).
 
 
 <!-- - Note on preferences in different fields, and how we mainly write for medical and public health journals, sometimes computational biology (but usually the medical format works best) 

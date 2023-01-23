@@ -12,23 +12,23 @@ title: ""
 # Lab Handbook
 
 ## Welcome! <!-- ----------------------------------------------------------- -->
-I'm so glad you're intersted in the lab. Whether you're a prospective student or postdoc, a current lab member, or just someone who'd like to see more about our inner workings, here you'll find an overview of how we do our thing. 
+I'm so glad you're intersted in the lab. Whether you're a prospective student or postdoc, a current lab member, or just someone who'd like to learn more about our inner workings, here you'll find an overview of what we do and what we're about. 
 
 ## Mission, expectations, and values <!-- ---------------------------------- -->
 
 ### Our mission
-Our mission is to conduct rigorous, impactful science for the public good. Our  approach to that includes: 
+Our mission is to conduct rigorous, impactful science for the public good. This includes: 
 1. Building up our society's intellectual and physical capacity to anticipate, manage, and heal from crises, especially as they relate to infectious diseases;
 2. Conducting our research in an open, honest, and responsive manner; 
 3. Fostering a healthy scientific community both within and beyond our lab.
 
 ### Academic integrity 
-Scientific integrity is of the utmost importance, especially when dealing with research questions that by definition can have far-reaching impacts on many peoples' lives. It's OK to be wrong; I'm wrong all the time. The important thing is to learn from our mistakes, to humbly accept criticism, and to defend our ideas based on their own merit rather than by our personal stake in their success. At a baseline, this means to never "fudge" data or images, to post the maximum amount of code and data that doesn't compromise privacy or safety, and to respond to reasonable requests for information from other scientists. 
+Scientific integrity is of the utmost importance, especially when dealing with research questions that may have far-reaching impacts on many peoples' lives. It's OK to be wrong; I'm wrong all the time. The important thing is to learn from our mistakes, to humbly accept criticism, and to defend our ideas based on their own merit rather than by our personal stake in their success. At a baseline, this means to never "fudge" data or images, to post the maximum amount of code and data that doesn't compromise privacy or safety, and to respond to reasonable requests for information from other scientists. 
 
-People can sometimes be unnecessarily and unhelpfully critical, especially in the age of social media. Twitter is an amazing communication tool and yet it can be a frightening place. Online confrontations are often a major test of integrity. Academic integrity requires personal integrity in all of our scientific dealings, both online and offline. If someone has said something annoying, write out your unfiltered thoughts in a private text document and then wait to write your actual reply until you've cooled off. If someone has said something offensive, hateful, or threatening, tell me or someone else who you trust, and we'll deal with it together, immediately. 
+People can sometimes be unnecessarily and unhelpfully critical, especially in the age of social media. Twitter is an amazing communication tool and yet it can be a frightening place. Online confrontations are a major test of integrity. Academic integrity requires personal integrity in all of our scientific dealings, both online and offline. If someone has said something annoying, I suggest writing your unfiltered thoughts in a private text document and then wait to write your actual reply until you've cooled off. If someone has said something offensive, hateful, or threatening, tell me or someone else who you trust, and we'll deal with it together, immediately. 
 
 ### Equity and Justice
-For our purposes, [equity](https://onlinepublichealth.gwu.edu/resources/equity-vs-equality/) involves providing to each according to the needs of each, and [justice](https://onlinepublichealth.gwu.edu/resources/equity-vs-equality/) is essentially long-term equity, achieved through systems-level change. Both are key pillars of our lab, guiding both the work we do and the way we do it. We work towards these aims in the following ways: 
+For our purposes, [equity](https://onlinepublichealth.gwu.edu/resources/equity-vs-equality/) means providing to each according to the needs of each, and [justice](https://onlinepublichealth.gwu.edu/resources/equity-vs-equality/) is essentially long-term equity, achieved through systems-level change. Both are key pillars of our lab, guiding both the work we do and the way we do it. We work towards these aims in the following ways: 
 1. __Outreach:__ There remain huge disparities between the overall demographic composition of the U.S. and the demographic composition of the people who pursue higher education and academic careers. This ultimately puts a limit on our ability, as researchers, to be as scientifically creative and socially aware as we might otherwise be. One of the most fundamental ways we can help to address this issue is by sharing what we do with students who might not otherwise see scientific research as a viable career option. We'll schedule periodic outreach activities at schools in the Denver/Boulder area as well as in rural districts to do our part to close this gap. 
 2. __Recruitment:__ I aim to maintain a diverse lab with trainees from a wide variety of backgrounds. Lab openings will be posted publicly to try to draw from a wide pool of applicants. This is an area where I'm actively trying to learn, since I don't yet know how best to advertise to prospective trainees from underrepresented backgrounds. If you know of any schemes or have any suggestions, please do let me know! 
 3. __Lab community:__ As a lab, our greatest resource is each other. I will provide various opportunities for lab members to share about their life experiences, from what they're currently experiencing to what got them to where they are. Each new lab member will have the opportunity to use their first lab meeting to share a bit about who they are, where they came from, and what they're aiming towards. The aim of this is to get us thinking about how other people experience the world and to bring that experience into our own daily workings. <br> <br>
@@ -67,7 +67,7 @@ In turn, I will:
 - __Social justice meetings:__ Once per rotation, we'll also replace one lab meeting with a "social justice" meeting, since health is about more than just disease, and more than just modeling. At these meetings, we'll discuss a reading (to be chosen by lab members) that helps us to think more deeply about our citizenship in the lab, university, and our larger communities. Readings may focus on diversity, equity, inclusion, political advocacy, community service, and related topics. They should help us think imaginatively about concrete positive changes we can make to improve the lives of those around us. 
 
 ### Working hours
-- I expect lab members (including myself) to be semi-responsive electronically between 10am-4pm on work days (don't worry, I won't be timing your response time – just try not to be totally checked out). 
+- I expect lab members (including myself) to be semi-responsive electronically between 10am-4pm on work days. Don't worry, I won't be monitoring your response time – just try not to be totally checked out. 
 - I also expect lab members (again, myself included) to be physically in lab at least three days per week – the more the better! 
 
 ### Communication

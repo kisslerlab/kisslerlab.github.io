@@ -49,6 +49,11 @@ Pathogens rarely spread in an ecological vacuum. Instead, microbes must jockey f
 	<b>Stephen M. Kissler,</b> Bill Wang, Ateev Mehrotra, Michael Barnett, Yonatan H. Grad. <i>Clinical Infectious Diseases</i> (2022) <a href="https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciac811/6748284" target="_blank">10.1093/cid/ciac811</a>
 	</div>
 
+1. Viral Dynamics of SARS-CoV-2 Variants in Vaccinated and Unvaccinated Persons <br> 
+	<div class="small">
+	<b>Stephen M. Kissler*,</b> Joseph R. Fauver*, Christina Mack*, Caroline G. Tai, Mallery I. Breban, Anne E. Watkins, Radhika M. Samant, Deverick J. Anderson, Jessica Metti, Gaurav Khullar, Rachel Baits, Matthew MacKay, Daisy Salgado, Tim Baker, Joel T. Dudley, Christopher E. Mason, David D. Ho, Nathan D. Grubaugh, Yonatan H. Grad. <i>New England Journal of Medicine</i> (2021) <a href="https://www.nejm.org/doi/full/10.1056/nejmc2102507" target="_blank">10.1056/NEJMc2102507</a> 
+	</div>
+
 1. Viral dynamics of acute SARS-CoV-2 infection and applications to diagnostic and public health strategies <br> 
 	<div class="small">
 	<b>Stephen M. Kissler*,</b> Joseph Fauver*, Christina Mack*, Caroline Tai, Mallery Breban, Anne E. Watkins, Radhika Samant, Deverick Anderson, Jessica Metti, Gaurav Khullar, Rachel Baits, Matthew MacKay, Daisy Salgado, Tim Baker, Joel T. Dudley, Christopher E. Mason, David Ho, Nathan D Grubaugh, Yonatan Grad. <i>PLOS Biology</i> (2021) <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001333" target="_blank">10.1371/journal.pbio.3001333</a> 
