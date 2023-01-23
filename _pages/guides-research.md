@@ -3,11 +3,12 @@ permalink: /guides/research/
 title: "Guidance for asking good research questions"
 ---
 
-_This page is under development._ 
+Asking good research questions is one of the most challenging, yet most essential, elements of science. It's the most important skill you'll learn as a graduate student or postdoc. It's also the hardest skill to give concrete advice about, since innovation[^1] is something we don't understand very well. Still, I've found it fruitful to ask myself the following questions when I'm not sure where to go next: 
 
-<!-- - What data do we need to solve some problem? 
-- What problems are we going to need to have solved in five years? 
-- How can we make the best use of a new or emerging technology? 
-- How will a new technology alleviate or exacerbate inequities? 
-- What role do the outliers play?  -->
+- __What data do we need to solve problem X?__ As modelers, we often end up in situations where we don't have enough data to specify some key parameter. Sometimes it's helpful to turn the problem around: if we wanted to specify that parameter, what sort of information would we need to collect? How much? Over what span of time, or in which populations? Sometimes the best way to use a model is to examine its inputs, not its outputs! 
+- __What problems will we want to have solved in five years?__ I love this question because it gives you license to dream. Which new devices will be available? How will populations have changed? Which new diseases will have come into the fore, and which others will have receded? When that time comes: what will we wish we had done five years ago to prepare for this moment? Then do it!  
+- __How can we make the best use of a new or emerging technology?__ This is like the previous question, but more targeted, since it's often possible to make very educated guesses about what sorts of medical technologies are in the works (check out clinicaltrials.gov, for example). Any new medical technology will have a public health impact. Our job is to answer: what will that impact be?  
+- __How will a new technology alleviate or exacerbate inequities?__ This question is like the previous two, but with a shift in emphasis. As public health scientists, we can sometimes get too wrapped up in utilitarian thinking, where average reductions in morbidity and mortality are all that matter. This question invites us to expand our thinking. Will everyone see the same benefits? Will some people be harmed? What can we do now to ensure equity? 
+- __What role do outliers play?__ It's fine and good to study average effects, but often the juicy stuff happens in the tails of distributions, where rare but influential events happen. Always be on the lookout for systems where the dynamics are dominated by unusual events! (Superspreading, I'm looking at you...) This sort of thinking can sometimes take a ho-hum research finding and turn it into something gritty, exciting, and impactful. 
 
+[^1]: The philosopher of science Karl Popper argues that scientific progress is inherently unpredictable since, if you could predict a scientific innovation, you would have by definition already made the innovation. Something about this argument still doesn't fully sit right with me, but I agree that the march of science is mysterious. I also think that if we want to ask good research questions, we would all do well to read more Karl Popper.  
