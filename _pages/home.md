@@ -28,6 +28,7 @@ header:
 
 ## News
 ### 2022
+- __Mar 27:__ Stephen will be giving a talk on introductory epidemiological modeling at the MIDAS Diversity Conference in Boston.
 - __Oct 17:__ Stephen will be giving a guest lecture for Advanced Methods in Infectious Disease Epidemiology at Boston University. <br>
 Talk: [_Understanding SARS-CoV-2 using simple models: between-host and within-host dynamics_](/talks/Kissler_BS825/index.html)
 - __Oct 11:__ Our manuscript on the impact of chronic comorobidities on pediatric antibiotic prescribing is now out in [CID](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciac811/6748284)!
