@@ -57,9 +57,9 @@ title: "People"
 		<b>Stephen Kissler</b><br>PI, Asst. Professor<br>
 	</div>
 	<div class="imgcontainer">
-		<a href="/people/"><img src="/assets/images/frame.png" class="image">
-		<!-- <div class="overlay">Next lab member (you??)</div> --></a>
-		<b>Future lab member</b><br>You??
+		<a href="/people/CarolynFulton/"><img src="/assets/images/carolyn_fulton.jpg" class="image">
+		<!-- <div class="overlay">Stephen Kissler</div> --></a>
+		<b>Carolyn Fulton</b><br>PhD Candidate<br>
 	</div>
 	<div class="imgcontainer">
 		<a href="/people/"><img src="/assets/images/frame.png" class="image">
