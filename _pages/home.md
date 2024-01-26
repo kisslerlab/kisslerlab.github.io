@@ -27,8 +27,18 @@ header:
 <br> 
 
 ## News
-### 2022
+
+### 2024
+- __Jan 12:__ Welcome [Carolyn Fulton](/people/CarolynFulton/), PhD candidate working in the lab! 
+
+### 2023
+- __Oct 29:__ New paper! [Viral kinetics of sequential SARS-CoV-2 infections](https://www.nature.com/articles/s41467-023-41941-z) in Nature communications with James Hay, Joseph Fauver, Christina Mack, Caroline Tai, Deverick Anderson, David Ho, Nathan Grubaugh, and Yonatan Grad. 
+- __Oct 23:__ Stephen will be presenting two posters at IDWeek in Boston, MA
+- __Sep 30:__ Welcome [Arindrajit Paul](/people/ArindrajitPaul/) and [Nour Rahal-Arabi](/people/NourRahalArabi/), MS candidates working in the lab!
+- __Sep 19:__ Stephen will be giving a virtual talk on "Virtue in caring for the individual and caring for the collective" at the Kern National Network for Flourishin in Medicine Conference. 
 - __Mar 27:__ Stephen will be giving a talk on introductory epidemiological modeling at the MIDAS Diversity Conference in Boston.
+
+### 2022
 - __Oct 17:__ Stephen will be giving a guest lecture for Advanced Methods in Infectious Disease Epidemiology at Boston University. <br>
 Talk: [_Understanding SARS-CoV-2 using simple models: between-host and within-host dynamics_](/talks/Kissler_BS825/index.html)
 - __Oct 11:__ Our manuscript on the impact of chronic comorobidities on pediatric antibiotic prescribing is now out in [CID](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciac811/6748284)!

@@ -62,12 +62,12 @@ title: "People"
 		<b>Carolyn Fulton</b><br>PhD Candidate<br>
 	</div>
 	<div class="imgcontainer">
-		<a href="/people/"><img src="/assets/images/frame.png" class="image">
+		<a href="/people/ArindrajitPaul/"><img src="/assets/images/arindrajit.jpg" class="image">
 		<!-- <div class="overlay">Next lab member (you??)</div> --></a>
-		<b>Future lab member</b><br>You??
+		<b>Arindrajit Paul</b><br>MS Candidate
 	</div>
 	<div class="imgcontainer">
-		<a href="/people/"><img src="/assets/images/frame.png" class="image">
+		<a href="/people/NourRahalArabi/"><img src="/assets/images/nour.png" class="image">
 		<!-- <div class="overlay">Next lab member (you??)</div> --></a>
-		<b>Future lab member</b><br>You??
+		<b>Nour Rahal-Arabi</b><br>MS Candidate
 </div>	
