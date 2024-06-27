@@ -29,10 +29,12 @@ header:
 ## News
 
 ### 2024
+- __Mar 21:__ New paper! [Drivers of geographic patterns in outpatient antibiotic prescribing in the United States](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciae111/7632801) in Clinical Infectious Diseases with Kirstin Roster (co-first author), Rachel Petherbridge, Ateev Mehrotra, Michael Barnett, and Yonatan Grad. 
+- __Mar 14:__ New paper! [The impact of vaccines and behavior on US cumulative deaths from COVID-19](https://www.brookings.edu/articles/the-impact-of-vaccines-and-behavior-on-us-cumulative-deaths-from-covid-19/) in the Brookings Papers on Economic Activity with Andrew Atkeson. See also the writeup by Lisa Marshall in [CU Boulder Today](https://www.colorado.edu/today/2024/05/09/social-distancing-plus-vaccines-prevented-800000-covid-deaths-great-cost). 
 - __Jan 12:__ Welcome [Carolyn Fulton](/people/CarolynFulton/), PhD candidate working in the lab! 
 
 ### 2023
-- __Oct 29:__ New paper! [Viral kinetics of sequential SARS-CoV-2 infections](https://www.nature.com/articles/s41467-023-41941-z) in Nature communications with James Hay, Joseph Fauver, Christina Mack, Caroline Tai, Deverick Anderson, David Ho, Nathan Grubaugh, and Yonatan Grad. 
+- __Oct 29:__ New paper! [Viral kinetics of sequential SARS-CoV-2 infections](https://www.nature.com/articles/s41467-023-41941-z) in Nature Communications with James Hay, Joseph Fauver, Christina Mack, Caroline Tai, Deverick Anderson, David Ho, Nathan Grubaugh, and Yonatan Grad. 
 - __Oct 23:__ Stephen will be presenting two posters at IDWeek in Boston, MA
 - __Sep 30:__ Welcome [Arindrajit Paul](/people/ArindrajitPaul/) and [Nour Rahal-Arabi](/people/NourRahalArabi/), MS candidates working in the lab!
 - __Sep 19:__ Stephen will be giving a virtual talk on "Virtue in caring for the individual and caring for the collective" at the Kern National Network for Flourishin in Medicine Conference. 

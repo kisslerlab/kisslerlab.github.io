@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-Our lab is dedicated to __improving society's ability to prepare for, manage, and heal from infectious disease outbreaks__ using mathematical models, statistical inference, and digital technology. 
+Our lab is dedicated to __improving society's ability to prepare for, manage, and heal from infectious disease outbreaks__ using mathematical models, statistical inference, and digital technology. See a full list of publications at Stephen's [Google Scholar](https://scholar.google.com/citations?hl=en&user=09rvmTIAAAAJ&view_op=list_works&authuser=1&sortby=pubdate) page. 
 
 ## Research interests
 
@@ -27,7 +27,7 @@ Pathogens rarely spread in an ecological vacuum. Instead, microbes must jockey f
 <center>
 <img src="/assets/images/virusrun.gif" width="80%">
 </center>
-
+<!-- 
 ## Selected Publications
 
 ### In prep, submitted, in press
@@ -159,3 +159,4 @@ Pathogens rarely spread in an ecological vacuum. Instead, microbes must jockey f
 	<div class="small">
 	Victor Roy, Dave Chokshi, <b>Stephen Kissler,</b> and Prabhjot Singh. <i>Health Affairs Forefront</i> (2016) <a href="https://www.healthaffairs.org/do/10.1377/forefront.20160615.055364" target="_blank">10.1377/forefront.20160615.055364</a> 
 	</div>
+ -->
