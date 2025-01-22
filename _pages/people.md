@@ -57,9 +57,19 @@ title: "People"
 		<b>Stephen Kissler</b><br>PI, Asst. Professor<br>
 	</div>
 	<div class="imgcontainer">
+		<a href="/people/LizaHadley/"><img src="/assets/images/liza_hadley.jpg" class="image">
+		<!-- <div class="overlay">Stephen Kissler</div> --></a>
+		<b>Liza Hadley</b><br>Postdoctoral Researcher<br>
+	</div>
+	<div class="imgcontainer">
 		<a href="/people/CarolynFulton/"><img src="/assets/images/carolyn_fulton.jpg" class="image">
 		<!-- <div class="overlay">Stephen Kissler</div> --></a>
 		<b>Carolyn Fulton</b><br>PhD Candidate<br>
+	</div>
+	<div class="imgcontainer">
+		<a href="/people/MaiaRichardsDinger/"><img src="/assets/images/maia_richardsdinger.png" class="image">
+		<!-- <div class="overlay">Stephen Kissler</div> --></a>
+		<b>Maia Richards-Dinger</b><br>PhD Candidate<br>
 	</div>
 	<div class="imgcontainer">
 		<a href="/people/ArindrajitPaul/"><img src="/assets/images/arindrajit.jpg" class="image">

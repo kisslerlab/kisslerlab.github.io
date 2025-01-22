@@ -29,6 +29,10 @@ header:
 ## News
 
 ### 2024
+- __Oct 5:__ Stephen will be giving a keynote talk at the Boettcher Foundation's [Webb-Waring Innovation Summit](https://boettcherfoundation.org/grantmaking/webb-waring-biomedical-research/innovation-summit/) in Denver, CO. 
+- __Oct 1:__ Welcome [Liza Hadley](/people/CarolylFulton/), joining as a postdoctoral researcher! 
+- __July 24:__ New grant awarded with Co-PI Daniel Larremore: "Quantifying the design of effective testing-based policies through infection trajectory modeling" (NSF/CDC).
+- __June 15:__ Welcome [Maia Richards-Dinger](/people/MaiaRichardsDinger/), PhD candidate working in the lab! 
 - __Mar 21:__ New paper! [Drivers of geographic patterns in outpatient antibiotic prescribing in the United States](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciae111/7632801) in Clinical Infectious Diseases with Kirstin Roster (co-first author), Rachel Petherbridge, Ateev Mehrotra, Michael Barnett, and Yonatan Grad. 
 - __Mar 14:__ New paper! [The impact of vaccines and behavior on US cumulative deaths from COVID-19](https://www.brookings.edu/articles/the-impact-of-vaccines-and-behavior-on-us-cumulative-deaths-from-covid-19/) in the Brookings Papers on Economic Activity with Andrew Atkeson. See also the writeup by Lisa Marshall in [CU Boulder Today](https://www.colorado.edu/today/2024/05/09/social-distancing-plus-vaccines-prevented-800000-covid-deaths-great-cost). 
 - __Jan 12:__ Welcome [Carolyn Fulton](/people/CarolynFulton/), PhD candidate working in the lab! 
