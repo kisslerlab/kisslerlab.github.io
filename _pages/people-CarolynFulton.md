@@ -4,7 +4,7 @@ title: ""
 author:
   name   : "Carolyn Fulton"
   avatar : "/assets/images/carolyn_fulton.jpg"
-  bio    : PhD Candidate<br>Department of Applied Mathematics<br>University of Colorado Boulder
+  bio    : PhD Candidate<br>Department of Computer Science<br>University of Colorado Boulder
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
