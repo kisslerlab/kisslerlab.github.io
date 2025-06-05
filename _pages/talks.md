@@ -14,6 +14,10 @@ gallery:
     image_path: /assets/images/Kissler_BS825_titlepage.png
     alt: "Slides for BS825 lecture, 2022"
     title: "BS825"
+  - url: /talks/Kissler_KineticsECDC/index.html
+    image_path: /assets/images/Kissler_ECDC_titlepage.png
+    alt: "Slides for ECDC Modelling Perspectives talk, 2025"
+    title: "ECDC2025"
 ---
 
 {% include gallery %}
