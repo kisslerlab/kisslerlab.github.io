@@ -77,7 +77,7 @@ title: "People"
 		<b>Arindrajit Paul</b><br>MS Candidate
 	</div>
 	<div class="imgcontainer">
-		<a href="/people/NourRahalArabi/"><img src="/assets/images/nour.png" class="image">
+		<a href="/people/NourRahalArabi/"><img src="/assets/images/nour2.png" class="image">
 		<!-- <div class="overlay">Next lab member (you??)</div> --></a>
 		<b>Nour Rahal-Arabi</b><br>MS Candidate
 </div>	
