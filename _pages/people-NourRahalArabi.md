@@ -3,7 +3,7 @@ permalink: /people/NourRahalArabi/
 title: ""
 author:
   name   : "Nour Rahal-Arabi"
-  avatar : "/assets/images/nour.png"
+  avatar : "/assets/images/nour2.png"
   bio    : MS Candidate<br>Department of Computer Science<br>University of Colorado Boulder
   links:
     - label: "Email"
