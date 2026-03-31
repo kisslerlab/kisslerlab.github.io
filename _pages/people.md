@@ -17,6 +17,7 @@ title: "People"
 	display: inline-block;
   	position: relative;
   	width: 24%;
+  	vertical-align: top;
 }
 
 .image {
@@ -49,6 +50,8 @@ title: "People"
 </head>
 
 
+## Current members
+
 <center>
 <div class="rowcontainer">
 	<div class="imgcontainer">
@@ -58,26 +61,19 @@ title: "People"
 	</div>
 	<div class="imgcontainer">
 		<a href="/people/LizaHadley/"><img src="/assets/images/liza_hadley.jpg" class="image">
-		<!-- <div class="overlay">Stephen Kissler</div> --></a>
+		<!-- <div class="overlay">Liza Hadley</div> --></a>
 		<b>Liza Hadley</b><br>Postdoctoral Researcher<br>
 	</div>
 	<div class="imgcontainer">
-		<a href="/people/CarolynFulton/"><img src="/assets/images/carolyn_fulton.jpg" class="image">
-		<!-- <div class="overlay">Stephen Kissler</div> --></a>
-		<b>Carolyn Fulton</b><br>PhD Candidate<br>
-	</div>
-	<div class="imgcontainer">
 		<a href="/people/MaiaRichardsDinger/"><img src="/assets/images/maia_richardsdinger.png" class="image">
-		<!-- <div class="overlay">Stephen Kissler</div> --></a>
+		<!-- <div class="overlay">Maia Richards-Dinger</div> --></a>
 		<b>Maia Richards-Dinger</b><br>PhD Candidate<br>
 	</div>
-	<div class="imgcontainer">
-		<a href="/people/ArindrajitPaul/"><img src="/assets/images/arindrajit.jpg" class="image">
-		<!-- <div class="overlay">Next lab member (you??)</div> --></a>
-		<b>Arindrajit Paul</b><br>MS Candidate
-	</div>
-	<div class="imgcontainer">
-		<a href="/people/NourRahalArabi/"><img src="/assets/images/nour2.png" class="image">
-		<!-- <div class="overlay">Next lab member (you??)</div> --></a>
-		<b>Nour Rahal-Arabi</b><br>MS Candidate
-</div>	
+</div>
+</center>
+
+## Lab alumni
+
+- Carolyn Fulton
+- Arindrajit Paul
+- Nour Rahal-Arabi

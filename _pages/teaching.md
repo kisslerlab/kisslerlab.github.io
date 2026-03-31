@@ -4,11 +4,11 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-## Current courses
+- Intro to Data Science with Probability and Statistics (F26) 
 
-- [Information Theory, Statistical Inference, and Applications (S24)](https://canvas.colorado.edu/courses/99700)
+- [Calculating Biological Quantities (F25)](https://canvas.colorado.edu/courses/127172)
 
-## Past courses 
+- [Engineering First-Year Seminar (F25)](https://canvas.colorado.edu/courses/123332)
 
-- [Calculating Biological Quantities (F23)](https://canvas.colorado.edu/courses/96338)
+- [Information Theory, Statistical Inference, and Applications (S25)](https://canvas.colorado.edu/courses/127172)
 

@@ -28,11 +28,22 @@ header:
 
 ## News
 
+### 2025
+- __Forthcoming:__ New paper! Integrating viral kinetics into routine outbreak surveillance: challenges, opportunities, and lessons from COVID-19 in Proceedings of the Royal Society B with James Hay, Daniel Larremore, and Anjalika Aatresh.
+- __Dec 12:__ New paper! [Diagnostic testing as a public health intervention: challenges and opportunities](https://www.tandfonline.com/doi/full/10.1080/17460794.2025.2603143) in Future Virology with Kristin Nelson and Tyler Brown.
+- __Oct:__ Stephen received the Kalpana Chawla Outstanding Recent Graduate Award from the University of Colorado Alumni Association.
+- __Jun 5:__ Stephen will be giving a virtual talk at the European Centre for Disease Control and Prevention Modelling Perspectives meeting.
+- __May:__ New grant awarded with PI Cresten Mansfeldt: "The Watering Whole: Forming a large-scale research collaboration focusing on understanding the modern people, materials, and contaminants flowing with the One Water Cycle" (CU Boulder CRT).
+- __Apr 2-4:__ Stephen will be giving a talk at the University of Illinois Urbana-Champaign Department of Microbiology Colloquium.
+
 ### 2024
 - __Oct 5:__ Stephen will be giving a keynote talk at the Boettcher Foundation's [Webb-Waring Innovation Summit](https://boettcherfoundation.org/grantmaking/webb-waring-biomedical-research/innovation-summit/) in Denver, CO. 
-- __Oct 1:__ Welcome [Liza Hadley](/people/CarolylFulton/), joining as a postdoctoral researcher! 
+- __Oct 1:__ Welcome [Liza Hadley](/people/LizaHadley/), joining as a postdoctoral researcher! 
+- __Sep:__ New paper! [Surveillance strategies for the detection of new pathogen variants across epidemiological contexts](https://doi.org/10.1371/journal.pcbi.1012201) in PLOS Computational Biology with Kirstin Roster, Yonatan Grad, and Daniel Larremore.
 - __July 24:__ New grant awarded with Co-PI Daniel Larremore: "Quantifying the design of effective testing-based policies through infection trajectory modeling" (NSF/CDC).
-- __June 15:__ Welcome [Maia Richards-Dinger](/people/MaiaRichardsDinger/), PhD candidate working in the lab! 
+- __Jul:__ New paper! [Infectious disease surveillance needs for the United States: Lessons from COVID-19](https://doi.org/10.3389/fpubh.2024.1408193) in Frontiers in Public Health with Marc Lipsitch, Yonatan Grad, and others.
+- __June 15:__ Welcome [Maia Richards-Dinger](/people/MaiaRichardsDinger/), PhD candidate working in the lab!
+- __May:__ New paper! [Spatiotemporal trends in Group A Streptococcal pharyngitis in the United States](https://doi.org/10.1093/cid/ciae270) in Clinical Infectious Diseases with David Kline and others.
 - __Mar 21:__ New paper! [Drivers of geographic patterns in outpatient antibiotic prescribing in the United States](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciae111/7632801) in Clinical Infectious Diseases with Kirstin Roster (co-first author), Rachel Petherbridge, Ateev Mehrotra, Michael Barnett, and Yonatan Grad. 
 - __Mar 14:__ New paper! [The impact of vaccines and behavior on US cumulative deaths from COVID-19](https://www.brookings.edu/articles/the-impact-of-vaccines-and-behavior-on-us-cumulative-deaths-from-covid-19/) in the Brookings Papers on Economic Activity with Andrew Atkeson. See also the writeup by Lisa Marshall in [CU Boulder Today](https://www.colorado.edu/today/2024/05/09/social-distancing-plus-vaccines-prevented-800000-covid-deaths-great-cost). 
 - __Jan 12:__ Welcome [Carolyn Fulton](/people/CarolynFulton/), PhD candidate working in the lab! 
