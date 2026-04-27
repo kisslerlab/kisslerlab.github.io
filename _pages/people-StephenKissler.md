@@ -20,7 +20,7 @@ author:
       url: "https://github.com/skissler"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:skissler@hsph.harvard.edu"
+      url: "mailto:stephen.kissler@colorado.edu"
 author_profile: true
 ---
 
