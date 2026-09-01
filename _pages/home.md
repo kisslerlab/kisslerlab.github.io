@@ -28,8 +28,19 @@ header:
 
 ## News
 
+### 2026
+- __Aug 10-12:__ Stephen will be attending the Workshop on Public Health Policy, Risk Perception, and Infectious Disease in Burlington, VT.
+- __Jul 22:__ New paper! [How understanding the diversity of perspectives and systems in governments can increase the impact of scientific research](https://doi.org/10.1038/s44528-026-00009-2) in Communications Health with Liza Hadley and others.
+- __Jul 17:__ New preprint! [How bursty infectiousness shapes epidemic dynamics](https://www.medrxiv.org/content/10.64898/2026.07.15.26358199v1) on medRxiv.
+- __Jul 17:__ New preprint! [Making inferences with incomplete epidemiological data: a proof-of-concept estimating measles vaccine coverage across Canada](https://www.medrxiv.org/content/10.64898/2026.07.16.26358151v1) on medRxiv with Liza Hadley, Rachael Milwid, Valerie Hongoh, Rania Wasfi, and Irena Papst.
+- __May 20:__ New preprint! [Inferring infectiousness: a joint model of the within-host viral kinetics of SARS-CoV-2](https://arxiv.org/abs/2605.20692) on arXiv with Christopher Boyer, Seran Hakki, Jakob Jonnerby, Ajit Lalvani, and Marc Lipsitch.
+- __May 15:__ [Lucy Wilson](/people/LucyWilson/) (Applied Mathematics) has joined as a rotation student --- welcome, Lucy!
+- __May 14:__ New paper! [Visualizing epidemiological models for policy: design principles for effective communication](https://doi.org/10.3389/fpubh.2026.1798154) in Frontiers in Public Health with Liza Hadley, Nick Holliman, Kai Xu, and others.
+- __May:__ New paper! [Understanding and exploiting superspreading to disrupt Mycobacterium tuberculosis transmission](https://doi.org/10.1016/S1473-3099(26)00168-4) in The Lancet Infectious Diseases with Tyler Brown, Kristin Nelson, and others.
+- __Apr 30:__ New paper! [Integrating viral kinetics into routine outbreak surveillance: challenges, opportunities and lessons from COVID-19](https://doi.org/10.1098/rstb.2024.0347) in Philosophical Transactions of the Royal Society B with James Hay, Daniel Larremore, and Aishani Aatresh.
+- __Apr 2:__ New preprint! [Modeling the impact of respiratory disease outbreaks on the United States agricultural workforce](https://www.medrxiv.org/content/10.64898/2026.03.31.26349871v1) on medRxiv with Katherine Bardsley, Luis de Pablo, Emma Keppler Canada, Naia Ormaza Zulueta, and Zia Mehrabi.
+
 ### 2025
-- __Forthcoming:__ New paper! Integrating viral kinetics into routine outbreak surveillance: challenges, opportunities, and lessons from COVID-19 in Proceedings of the Royal Society B with James Hay, Daniel Larremore, and Anjalika Aatresh.
 - __Dec 12:__ New paper! [Diagnostic testing as a public health intervention: challenges and opportunities](https://www.tandfonline.com/doi/full/10.1080/17460794.2025.2603143) in Future Virology with Kristin Nelson and Tyler Brown.
 - __Oct:__ Stephen received the Kalpana Chawla Outstanding Recent Graduate Award from the University of Colorado Alumni Association.
 - __Jun 5:__ Stephen will be giving a virtual talk at the European Centre for Disease Control and Prevention Modelling Perspectives meeting.
