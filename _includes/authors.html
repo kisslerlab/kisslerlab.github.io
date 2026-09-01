@@ -1,0 +1,10 @@
+{%- comment -%}
+Renders an author string with every lab member's name (from _data/lab_names.yml)
+wrapped in <strong>. Usage: {% include authors.html authors=pub.authors %}
+{%- endcomment -%}
+{%- assign _authors = include.authors -%}
+{%- for name in site.data.lab_names -%}
+  {%- capture _bold -%}<strong>{{ name }}</strong>{%- endcapture -%}
+  {%- assign _authors = _authors | replace: name, _bold -%}
+{%- endfor -%}
+{{- _authors -}}

@@ -1,18 +1,11 @@
 ---
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
-toc_sticky: true
 permalink: /handbook/
-title: ""
+title: "Lab Handbook"
+lead: "How we work, what we value, and what to expect in the lab — for prospective and current members alike."
 ---
 
-<!-- _This page is under construction._ -->
-
-# Lab Handbook
-
 ## Welcome! <!-- ----------------------------------------------------------- -->
-I'm so glad you're intersted in the lab. Whether you're a prospective student or postdoc, a current lab member, or just someone who'd like to learn more about our inner workings, here you'll find an overview of what we do and what we're about. 
+I'm so glad you're interested in the lab. Whether you're a prospective student or postdoc, a current lab member, or just someone who'd like to learn more about our inner workings, here you'll find an overview of what we do and what we're about.
 
 ## Mission, expectations, and values <!-- ---------------------------------- -->
 

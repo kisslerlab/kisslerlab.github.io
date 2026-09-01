@@ -1,0 +1,31 @@
+---
+layout: default
+---
+{% assign p = page.author %}
+<article class="person-page">
+  <div class="wrap person-grid">
+    <aside class="person-card reveal">
+      {% if p.avatar %}
+        <img class="person-photo" src="{{ p.avatar | relative_url }}" alt="Photo of {{ p.name }}">
+      {% else %}
+        <div class="person-photo person-photo--placeholder" aria-hidden="true">{{ p.name | slice: 0 }}</div>
+      {% endif %}
+      <h1 class="person-name">{{ p.name }}</h1>
+      {% if p.bio %}<p class="person-role">{{ p.bio }}</p>{% endif %}
+      {% if p.links %}
+        <ul class="person-links">
+          {% for link in p.links %}
+            <li><a href="{{ link.url }}"{% unless link.url contains 'mailto' %} target="_blank" rel="noopener"{% endunless %}>
+              {% if link.icon %}<i class="{{ link.icon }}" aria-hidden="true"></i>{% endif %}<span>{{ link.label }}</span>
+            </a></li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+      <a class="person-back" href="{{ '/people/' | relative_url }}">← All people</a>
+    </aside>
+
+    <div class="person-body prose reveal">
+      {{ content }}
+    </div>
+  </div>
+</article>

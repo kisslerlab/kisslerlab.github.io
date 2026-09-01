@@ -1,0 +1,43 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0d1b2a">
+
+{% assign page_title = page.title | default: site.title %}
+{% if page.title and page.title != "" %}
+  {% assign full_title = page.title | append: " · " | append: site.title %}
+{% else %}
+  {% assign full_title = site.title | append: " · " | append: site.tagline %}
+{% endif %}
+{% assign page_desc = page.description | default: page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 200 %}
+
+<title>{{ full_title }}</title>
+<meta name="description" content="{{ page_desc }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+
+<!-- Open Graph / social -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ page_title }}">
+<meta property="og:description" content="{{ page_desc }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:image" content="{{ '/assets/images/summary-collective-corrected.png' | absolute_url }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@StephenKissler">
+
+<!-- Favicons (existing assets) -->
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+<link rel="shortcut icon" href="/assets/images/favicon.ico">
+
+<!-- Type: Source Serif 4 (headings), Source Sans 3 (body & UI) -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&display=swap" rel="stylesheet">
+
+<!-- Font Awesome (free) — powers the icon labels in people/link lists -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" referrerpolicy="no-referrer">
+
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+{% feed_meta %}

@@ -1,0 +1,22 @@
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header" data-header>
+  <div class="wrap header-inner">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="The Kissler Lab — home">
+      <span class="brand-logo" aria-hidden="true"></span>
+      <span class="brand-text">The Kissler Lab</span>
+    </a>
+
+    <button class="nav-toggle" data-nav-toggle aria-label="Toggle navigation" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+
+    <nav class="site-nav" data-nav aria-label="Primary">
+      {% for item in site.data.navigation.main %}
+        {% assign current = false %}
+        {% if page.url == item.url or page.url contains item.url and item.url != '/' %}{% assign current = true %}{% endif %}
+        <a href="{{ item.url | relative_url }}"{% if current %} aria-current="page"{% endif %}>{{ item.title }}</a>
+      {% endfor %}
+      <a class="nav-cta" href="{{ '/contact/' | relative_url }}">Contact</a>
+    </nav>
+  </div>
+</header>

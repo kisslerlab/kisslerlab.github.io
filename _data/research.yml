@@ -1,0 +1,56 @@
+# Research themes — the four questions from the lab's mission sketch.
+# `image` is an animation/figure in /assets/images. `tag` links a theme to
+# the matching filter on the Research publications list.
+
+- id: kinetics
+  number: "01"
+  title: "From viral load to outbreak"
+  tagline: "Linking within- and between-host dynamics"
+  image: /assets/images/viralanimation.gif
+  tag: viral-kinetics
+  summary: >-
+    Epidemics are self-similar across scales: the rise and fall of cases in an
+    outbreak mirrors the rise and fall of viral load within a single infection.
+    We build adaptive experimental designs and statistical methods to infer
+    viral kinetics and their link to contagiousness — turning individual
+    trajectories into insight about transmission, control, and the viruses
+    themselves.
+
+- id: networks
+  number: "02"
+  title: "How communities shape spread"
+  tagline: "Contact networks, mobility, and behavior"
+  image: /assets/images/zoomnet.gif
+  tag: networks
+  summary: >-
+    A pathogen has only limited power over its own spread — the rest is up to
+    the structure of our communities. Human interaction is staggeringly complex,
+    and that complexity produces surprising patterns of transmission and
+    evolution. We measure the contact structures that matter and model how
+    pathogens move through highly structured, dynamic populations.
+
+- id: ecology
+  number: "03"
+  title: "Pathogens in competition"
+  tagline: "The ecology of co-circulating respiratory pathogens"
+  image: /assets/images/virusrun.gif
+  tag: ecology
+  summary: >-
+    Pathogens rarely spread in a vacuum. Microbes jockey for a foothold against
+    related strains, unrelated species, and their hosts' defenses. Co-circulation
+    is a public-health challenge — and an opportunity, where well-placed
+    surveillance can watch many pathogens at once. We infer the immunological and
+    environmental forces that couple respiratory pathogens and design strategies
+    to monitor and control them together.
+
+- id: compound
+  number: "04"
+  title: "Epidemics don't happen in isolation"
+  tagline: "How outbreaks compound other threats to well-being"
+  image: /assets/images/sirdemo.gif
+  tag: policy
+  summary: >-
+    Outbreaks collide with the other pressures societies face — food and water
+    systems, a warming planet, and the machinery of government itself. We study
+    how epidemics compound these threats, how models can genuinely inform policy,
+    and how the science is communicated to the people who act on it.

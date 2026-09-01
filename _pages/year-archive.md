@@ -1,26 +1,22 @@
 ---
-title: ""
+layout: page
 permalink: /people/StephenKissler/posts/
-layout: posts
-author:
-  name   : "Stephen Kissler"
-  avatar : "/assets/images/headshot_hsph_2.jpg"
-  bio    : PI, Assistant Professor<br>Department of Computer Science<br>University of Colorado Boulder
-  links:
-    - label: "CV"
-      icon: "fas fa-fw fa-link"
-      url: "/assets/documents/Kissler_CV_2026-03-19.pdf"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?hl=en&user=09rvmTIAAAAJ"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/StephenKissler"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/skissler"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:skissler@hsph.harvard.edu"
-author_profile: true
+title: "Essays"
+eyebrow: "Stephen Kissler"
+lead: "Rough-hewn essays on epidemiological modeling — thinking out loud about the craft."
 ---
+
+{% assign essays = site.posts %}
+{% if essays.size > 0 %}
+<ul class="essay-list">
+{% for post in essays %}
+  <li>
+    <a href="{{ post.url | relative_url }}"><strong>{{ post.title }}</strong></a>
+    {% if post.date %}<span style="color:var(--muted); font-size:.9rem;"> · {{ post.date | date: "%B %-d, %Y" }}</span>{% endif %}
+    {% if post.excerpt %}<div style="color:var(--muted); margin:.2rem 0 0;">{{ post.excerpt | strip_html | truncate: 160 }}</div>{% endif %}
+  </li>
+{% endfor %}
+</ul>
+{% else %}
+<p>No essays yet — check back soon.</p>
+{% endif %}

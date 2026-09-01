@@ -1,0 +1,52 @@
+name: Sync publications from ORCID
+
+# Runs weekly (and on-demand). Detects new DOIs on your ORCID record, adds draft
+# entries to _data/publications.yml, and opens a pull request for you to review.
+# Nothing reaches the live site until you fill in tags/senior and merge the PR.
+#
+# Setup (one time):
+#   Repo → Settings → Secrets and variables → Actions → Variables → New variable
+#     Name:  ORCID_ID
+#     Value: your ORCID iD, e.g. 0000-0002-1825-0097
+
+on:
+  schedule:
+    - cron: "0 9 * * 1" # Mondays, 09:00 UTC
+  workflow_dispatch: {} # allows manual "Run workflow"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Detect new publications from ORCID
+        env:
+          ORCID_ID: ${{ vars.ORCID_ID }}
+        run: python scripts/sync_publications.py
+
+      - name: Open a pull request with any new entries
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: publications/orcid-sync
+          delete-branch: true
+          commit-message: "chore(pubs): add new publication(s) from ORCID sync"
+          title: "Add new publication(s) from ORCID"
+          body: |
+            The ORCID sync workflow found new DOIs and added draft entries to
+            `_data/publications.yml`.
+
+            **Before merging, for each new entry:**
+            - Set the topic `tags` (options are listed under `filters:` at the top of the file).
+            - Set `senior: true` if Stephen is first, last, or co-senior author (otherwise leave `false`).
+            - Sanity-check the author list, venue, and title (author lists come from Crossref).
+
+            The home page "Recent work" strip shows the six most recent `senior: true` papers.

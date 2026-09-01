@@ -1,21 +1,13 @@
 main:
-  # - title: "Posts"
-  #   url: /posts/
-  # - title: "Categories"
-  #   url: /categories/
-  # - title: "Tags"
-  #   url: /tags/
-  - title: "People"
-    url: /people/
   - title: "Research"
     url: /research/
+  - title: "People"
+    url: /people/
   - title: "Teaching"
     url: /teaching/
-  - title: "Handbook"
-    url: /handbook/
-  - title: "Guides"
-    url: /guides/
   - title: "Talks"
     url: /talks/
-  - title: "Contact"
-    url: /contact/
+  - title: "Guides"
+    url: /guides/
+  - title: "Handbook"
+    url: /handbook/

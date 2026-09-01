@@ -1,4 +1,5 @@
 ---
+layout: person
 permalink: /people/ArindrajitPaul/
 title: ""
 author:

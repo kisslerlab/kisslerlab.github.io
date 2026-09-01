@@ -1,7 +1,7 @@
 ---
-# layout: splash
 permalink: /teaching/
 title: "Teaching"
+lead: "Courses I teach at CU Boulder, spanning data science, statistical inference, and the mathematics of biological systems."
 ---
 
 - Intro to Data Science with Probability and Statistics (F26) 

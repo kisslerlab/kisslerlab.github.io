@@ -1,119 +1,71 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# ─────────────────────────────────────────────────────────────
+#  The Kissler Lab — custom Jekyll site
+#  Builds natively on GitHub Pages. Edit content in Markdown /
+#  the _data/*.yml files; the design lives in _layouts, _includes,
+#  and assets/css/main.scss.
+# ─────────────────────────────────────────────────────────────
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: The Kissler Lab
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to the Kissler Lab
-twitter_username: username
+# Site identity
+title: "The Kissler Lab"
+tagline: "Computational epidemiology at CU Boulder"
+description: >-
+  The Kissler Lab builds mathematical models, statistical methods, and digital
+  tools to make the world more resilient to infectious diseases. Department of
+  Computer Science, University of Colorado Boulder.
+url: "https://kisslerlab.github.io"
+baseurl: ""
+email: "stephen.kissler@colorado.edu"
+institution: "Department of Computer Science, University of Colorado Boulder"
+
+# Social / profiles (used in footer + people pages)
 github_username: "kisslerlab"
-minimal_mistakes_skin: default # default mint dark
-search: true
+scholar_url: "https://scholar.google.com/citations?hl=en&user=09rvmTIAAAAJ"
+
+# Lab lead (used for structured data + fallbacks)
+lead:
+  name: "Stephen Kissler"
+  role: "Principal Investigator · Assistant Professor"
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
+highlighter: rouge
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Denver
 
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - run.txt
+  - vendor
+  - .bundle
+  - "*.key"
+  - "*.xcf"
 
-# Plugins (previously gems:)
+sass:
+  style: compressed
+
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
+  - jemoji
 
-author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Bio."
-  links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/kisslerlab"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+feed:
+  path: /feed.xml
 
-footer:
-  links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/kisslerlab"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
-
+# Page defaults
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
+      layout: post
   - scope:
       path: "_pages"
       type: pages
     values:
-      layout: single
-      author_profile: false
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
-atom_feed:
-  hide: true
-
-masthead_title: "The Kissler Lab"
-# masthead_title: "EMIRG: The Epidemic Modeling, Inference, and Response Group"
+      layout: page

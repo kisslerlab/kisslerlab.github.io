@@ -1,4 +1,33 @@
-<div class="page__footer-copyright">
-Department of Computer Science<br>1111 Engineering Drive, ECOT 717, 430 UCB<br> Boulder, CO 80309 USA<br>
-</div>
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div class="footer-brand">
+      <div class="footer-title">The Kissler Lab</div>
+      <p class="footer-tag">Making the world more resilient to infectious diseases — with models, data, and computation.</p>
+      <p class="footer-inst">{{ site.institution }}</p>
+    </div>
+
+    <nav class="footer-col" aria-label="Site">
+      <h3>Explore</h3>
+      {% for item in site.data.navigation.main %}
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+      {% endfor %}
+    </nav>
+
+    <nav class="footer-col" aria-label="Elsewhere">
+      <h3>Elsewhere</h3>
+      <a href="{{ site.scholar_url }}" target="_blank" rel="noopener">Google Scholar</a>
+      <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener">GitHub</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    </nav>
+
+    <div class="footer-col footer-visit">
+      <h3>Visit</h3>
+      <p>ECES 118D<br>1111 Engineering Dr<br>Boulder, CO 80309</p>
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    </div>
+  </div>
+  <div class="wrap footer-base">
+    <span>© {{ 'now' | date: "%Y" }} The Kissler Lab</span>
+    <span>Built with Jekyll · hosted on GitHub Pages</span>
+  </div>
+</footer>

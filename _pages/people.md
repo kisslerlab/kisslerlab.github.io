@@ -1,79 +1,36 @@
 ---
 permalink: /people/
 title: "People"
+lead: "A small, interdisciplinary group of mathematicians, computer scientists, and epidemiologists — united by the belief that models and data can make outbreaks less harmful."
+wide: true
 ---
 
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {box-sizing: border-box;}
+<section class="people-section">
+  <h2>Current members</h2>
+  <div class="people-cards">
+    {% for m in site.data.people.current %}
+      <a class="people-card" href="{{ m.page | relative_url }}">
+        {% if m.photo %}
+          <img src="{{ m.photo | relative_url }}" alt="{{ m.name }}" loading="lazy">
+        {% else %}
+          <span class="ph" aria-hidden="true">{{ m.name | slice: 0 }}</span>
+        {% endif %}
+        <span class="nm">{{ m.name }}</span>
+        <span class="rl">{{ m.role }}</span>
+      </a>
+    {% endfor %}
+  </div>
+</section>
 
-.rowcontainer {
-	position:  relative;
-	width:  100%;
-}
-
-.imgcontainer {
-	display: inline-block;
-  	position: relative;
-  	width: 24%;
-  	vertical-align: top;
-}
-
-.image {
-  display: block;
-  width: 100%;
-  height: auto;
-  padding: 2px;
-  border-radius: 0%;
-}
-
-.overlay {
-  position: absolute; 
-  bottom: 0; 
-  background: rgb(0, 0, 0);
-  background: rgba(0, 0, 0, 0.5); /* Black see-through */
-  color: #f1f1f1; 
-  width: 100%;
-  transition: .5s ease;
-  opacity:0;
-  color: white;
-  font-size: 14px;
-  padding: 14px;
-  text-align: center;
-}
-
-.imgcontainer:hover .overlay {
-  opacity: 1;
-}
-</style>
-</head>
-
-
-## Current members
-
-<center>
-<div class="rowcontainer">
-	<div class="imgcontainer">
-		<a href="/people/StephenKissler/"><img src="/assets/images/headshot_hsph_2.jpg" class="image">
-		<!-- <div class="overlay">Stephen Kissler</div> --></a>
-		<b>Stephen Kissler</b><br>PI, Asst. Professor<br>
-	</div>
-	<div class="imgcontainer">
-		<a href="/people/LizaHadley/"><img src="/assets/images/liza_hadley.jpg" class="image">
-		<!-- <div class="overlay">Liza Hadley</div> --></a>
-		<b>Liza Hadley</b><br>Postdoctoral Researcher<br>
-	</div>
-	<div class="imgcontainer">
-		<a href="/people/MaiaRichardsDinger/"><img src="/assets/images/maia_richardsdinger.png" class="image">
-		<!-- <div class="overlay">Maia Richards-Dinger</div> --></a>
-		<b>Maia Richards-Dinger</b><br>PhD Candidate<br>
-	</div>
-</div>
-</center>
-
-## Lab alumni
-
-- Carolyn Fulton
-- Arindrajit Paul
-- Nour Rahal-Arabi
+<section class="people-section" style="margin-top:3.5rem;">
+  <h2>Lab alumni</h2>
+  <ul class="alumni-list">
+    {% for m in site.data.people.alumni %}
+      {% if m.page %}
+        <li><a href="{{ m.page | relative_url }}">{{ m.name }}</a></li>
+      {% else %}
+        <li><span>{{ m.name }}</span></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</section>

@@ -1,0 +1,48 @@
+# Lab roster. `page` links to a full bio (in _pages/people-*.md); omit for
+# members without one. `photo` is a path under /assets/images.
+# NOTE: current vs. alumni classification carried over from the previous site —
+# please confirm it's still accurate.
+
+current:
+  - name: "Stephen Kissler"
+    role: "Principal Investigator · Assistant Professor"
+    dept: "Computer Science"
+    photo: /assets/images/headshot_whiteboard.jpg
+    page: /people/StephenKissler/
+
+  - name: "Liza Hadley"
+    role: "Postdoctoral Researcher"
+    dept: "Computer Science · joint with Cambridge"
+    photo: /assets/images/liza_hadley.jpg
+    page: /people/LizaHadley/
+
+  - name: "Maia Richards-Dinger"
+    role: "PhD Candidate"
+    dept: "Applied Mathematics"
+    photo: /assets/images/maia_richardsdinger.png
+    page: /people/MaiaRichardsDinger/
+
+  - name: "Lucy Wilson"
+    role: "Rotation Student"
+    dept: "Applied Mathematics"
+    photo:
+    page: /people/LucyWilson/
+
+alumni:
+  - name: "Carolyn Fulton"
+    role: "PhD Candidate"
+    dept: "Computer Science"
+    photo: /assets/images/carolyn_fulton.jpg
+    page: /people/CarolynFulton/
+
+  - name: "Arindrajit Paul"
+    role: "MS · Computer Science"
+    dept: "Computer Science"
+    photo: /assets/images/arindrajit.jpg
+    page: /people/ArindrajitPaul/
+
+  - name: "Nour Rahal-Arabi"
+    role: "MS · Computer Science"
+    dept: "Computer Science"
+    photo: /assets/images/nour2.png
+    page: /people/NourRahalArabi/

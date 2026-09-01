@@ -1,0 +1,12 @@
+# Names to bold wherever they appear in a publication author list.
+# Add every form a member's name might take in an author string (e.g. with and
+# without a middle initial). Used by _includes/authors.html.
+# List longer/more-specific variants first so partial forms don't pre-empt them.
+- "Stephen M. Kissler"
+- "Stephen Kissler"
+- "Liza Hadley"
+- "Maia Richards-Dinger"
+- "Lucy Wilson"
+- "Carolyn Fulton"
+- "Arindrajit Paul"
+- "Nour Rahal-Arabi"
