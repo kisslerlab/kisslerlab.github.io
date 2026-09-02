@@ -1,7 +1,7 @@
 ---
 permalink: /people/
 title: "People"
-lead: "A small, interdisciplinary group of mathematicians, computer scientists, and epidemiologists — united by the belief that models and data can make outbreaks less harmful."
+# lead: "A small, interdisciplinary group of mathematicians, computer scientists, and epidemiologists — united by the belief that models and data can make outbreaks less harmful."
 wide: true
 ---
 

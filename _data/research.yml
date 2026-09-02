@@ -1,56 +1,102 @@
-# Research themes — the four questions from the lab's mission sketch.
-# `image` is an animation/figure in /assets/images. `tag` links a theme to
-# the matching filter on the Research publications list.
+# The lab's five research threads, shown as the alternating rows on /research/.
+# `image` is intentionally left blank — each row renders a placeholder box until
+# you add a figure, e.g.  image: /assets/images/viral-kinetics.png
+# `tag` links a thread to the matching filter chip on the publications list.
 
-- id: kinetics
+- id: viral-kinetics
   number: "01"
-  title: "From viral load to outbreak"
-  tagline: "Linking within- and between-host dynamics"
-  image: /assets/images/viralanimation.gif
+  title: "Making viral kinetics a pillar of surveillance"
   tag: viral-kinetics
+  image:
   summary: >-
-    Epidemics are self-similar across scales: the rise and fall of cases in an
-    outbreak mirrors the rise and fall of viral load within a single infection.
-    We build adaptive experimental designs and statistical methods to infer
-    viral kinetics and their link to contagiousness — turning individual
-    trajectories into insight about transmission, control, and the viruses
-    themselves.
+    Epidemics are shaped by microbiology, physiology, and behavior.
+    <strong>Viral kinetics</strong> are the critical link that allow us to translate
+    across these scales: the rise and fall of viral levels in the body during an
+    infection simultaneously bears the imprint of the struggle between the virus and
+    the immune system and provides the basis for transmission. Viral kinetics have
+    revolutionized our understanding of important pathogens like HIV and SARS-CoV-2,
+    but unlike pathogen genomics (the micro-scale) and morbidity and mortality
+    statistics (the population scale), we rarely do active surveillance on viral
+    kinetics (the intermediate scale). We're setting out to change that: we are
+    developing the <strong>tools</strong> to empower viral kinetics surveillance, the
+    <strong>statistical methods</strong> to streamline data collection, and the
+    <strong>science</strong> to interpret what we find.
 
-- id: networks
+- id: diagnostic-testing
   number: "02"
-  title: "How communities shape spread"
-  tagline: "Contact networks, mobility, and behavior"
-  image: /assets/images/zoomnet.gif
-  tag: networks
+  title: "Using diagnostic testing to advance public health"
+  tag: surveillance
+  image:
   summary: >-
-    A pathogen has only limited power over its own spread — the rest is up to
-    the structure of our communities. Human interaction is staggeringly complex,
-    and that complexity produces surprising patterns of transmission and
-    evolution. We measure the contact structures that matter and model how
-    pathogens move through highly structured, dynamic populations.
+    Diagnostic tests are normally seen as clinical tools, to decide the best treatment
+    course for a patient. But diagnostic testing can play an equally powerful role in
+    curbing outbreaks. Often, the optimal criteria for testing platforms — their
+    sensitivity, specificity, cost, and production volume — differ depending on whether
+    they are used for clinical or public health purposes; but our regulatory frameworks
+    prioritize clinical uses, so that potentially life-saving public health diagnostics
+    remain sub-optimal or never make it to market. We're working to make public health
+    testing co-equal with its clinical counterpart, using modeling and simulations to
+    lay out public health use-cases for novel diagnostics.
 
-- id: ecology
+- id: decentralized-response
   number: "03"
-  title: "Pathogens in competition"
-  tagline: "The ecology of co-circulating respiratory pathogens"
-  image: /assets/images/virusrun.gif
-  tag: ecology
-  summary: >-
-    Pathogens rarely spread in a vacuum. Microbes jockey for a foothold against
-    related strains, unrelated species, and their hosts' defenses. Co-circulation
-    is a public-health challenge — and an opportunity, where well-placed
-    surveillance can watch many pathogens at once. We infer the immunological and
-    environmental forces that couple respiratory pathogens and design strategies
-    to monitor and control them together.
-
-- id: compound
-  number: "04"
-  title: "Epidemics don't happen in isolation"
-  tagline: "How outbreaks compound other threats to well-being"
-  image: /assets/images/sirdemo.gif
+  title: "Empowering local, decentralized outbreak response"
   tag: policy
+  image:
   summary: >-
-    Outbreaks collide with the other pressures societies face — food and water
-    systems, a warming planet, and the machinery of government itself. We study
-    how epidemics compound these threats, how models can genuinely inform policy,
-    and how the science is communicated to the people who act on it.
+    Top-down decisions are often necessary for controlling outbreaks, but they risk
+    overlooking community-specific values and risk factors, and can be too coarse and
+    cumbersome to respond to a fast-moving outbreak. New digital technologies are making
+    it possible for individuals and local communities to get access to information that
+    was previously only attainable by well-resourced, centralized agencies, making it
+    possible to make more agile and granular public health decisions. We are developing
+    privacy-preserving, mechanistically-grounded, principled outbreak-support tools to
+    enable local communities to test targeted interventions before deploying them and to
+    access advanced modeling capabilities — making it easier to design evidence-based,
+    community-aware interventions.
+
+- id: antibiotic-drivers
+  number: "04"
+  title: "Finding the upstream drivers of antibiotic resistance"
+  tag: antibiotics
+  image:
+  summary: >-
+    Antibiotic resistance is one of this century's foremost public health challenges.
+    The onus to prevent it is often placed on healthcare providers: prescribe antibiotics
+    only when absolutely necessary. But antibiotic use is driven more fundamentally by
+    disease, which in turn is shaped by vaccination, underlying health conditions, and
+    social determinants. We are working to identify these upstream drivers of antibiotic
+    prescribing so that we can respond more comprehensively to the antibiotic resistance
+    crisis.
+
+- id: respiratory-ecology
+  number: "05"
+  title: "Disentangling respiratory virus ecology"
+  tag: ecology
+  image:
+  summary: >-
+    Respiratory viruses cause huge numbers of illnesses, hospitalizations, and deaths.
+    Their ecology dictates how we respond, including decisions like when, whom, and
+    against which strains we should vaccinate, and how we should prepare our schools,
+    hospitals, and workplaces for surges. The COVID-19 pandemic offers a unique
+    opportunity to study these viruses' ecology: by interpreting the temporal and
+    geographic patterns of their spread as they return to normal circulation after being
+    suppressed by masking and distancing, we can disentangle the impact of cross-immunity,
+    waning protection, and mobility in ways that were previously impossible.
+
+- id: agricultural-health
+  number: "06"
+  title: "Assessing how outbreaks impact agricultural worker health and food production"
+  tag: policy
+  image:
+  summary: >-
+    Outbreaks play out differently across sectors of society. Agriculture is especially
+    vulnerable to epidemics: agricultural workers are often highly mobile, face unique
+    occupational exposures (pesticides, household crowding, exposure to disease-carrying
+    vectors), and have limited access to health care. Epidemics also pose a fundamentally
+    different type of threat to agricultural systems than better-studied shocks like
+    droughts and storms: the response to an outbreak can exacerbate its spread, and an
+    epidemic spreading across the globe can cause immediate, local impacts, as measures
+    are put in place to prevent the spread of disease. We are working to understand how
+    epidemics uniquely impact agricultural workers and food production, so that we can
+    better anticipate and prevent their worst impacts.

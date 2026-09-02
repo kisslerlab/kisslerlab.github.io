@@ -1,14 +1,14 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-lead: "Courses I teach at CU Boulder, spanning data science, statistical inference, and the mathematics of biological systems."
+# lead: "Courses I teach at CU Boulder, spanning data science, statistical inference, and the mathematics of biological systems."
 ---
 
-- Intro to Data Science with Probability and Statistics (F26) 
+- Intro to Data Science with Probability and Statistics (CSCI 3022) <br> (F26) 
 
-- [Calculating Biological Quantities (F25)](https://canvas.colorado.edu/courses/127172)
+- Calculating Biological Quantities (CSCI 2897) <br> (F23, F24, F25)
 
-- [Engineering First-Year Seminar (F25)](https://canvas.colorado.edu/courses/123332)
+- Engineering First-Year Seminar (COEN 1500) <br> (F24, F25)
 
-- [Information Theory, Statistical Inference, and Applications (S25)](https://canvas.colorado.edu/courses/127172)
+- Information Theory, Statistical Inference, and Applications (CSCI 6414) <br> (S24, S25, S27)
 

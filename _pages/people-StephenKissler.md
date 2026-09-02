@@ -33,5 +33,3 @@ I've always loved building models. When I found out in college that you can buil
 
 Outside of research, I play the violin and whatever else I can get my hands on, I build and ride bikes, and I get unreasonably excited about good coffee and good short fiction.
 
-I keep some rough-hewn essays on epidemiological modeling [here](/people/StephenKissler/posts). 
-

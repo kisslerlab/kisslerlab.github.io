@@ -7,7 +7,7 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
-## When should I start writing? 
+## When should I start writing?
 
 Now. Right away. 
 
@@ -19,7 +19,7 @@ Think about the last time you wrote a proof. How did you do it? Certainly not by
 
 Writing, conceived like this, is a central part of the scientific process. It's not just how we communicate ideas to others; it's also how we communicate ideas to ourselves. Writing is the clearest way to expose holes in our research that need to be filled with new experiments. It's the clearest way to achieve flashes of inspiration, made possible by seing our own ideas laid out linearly on a page. Waiting to write means passing up opportunities to be a more rigorous, thoughtful, and creative scientist. 
 
-### But... how? 
+### But... how?
 
 To achieve this, most of us need to re-frame our concept of writing. Microsoft Word and most other text-editing software (especially LaTeX!) re-enforce a bad concept of writing: as soon as you type your words, they show up on the screen in something that already looks like well-formatted sheet of paper. You feel the horror of having written something that looks so _permanent_. Someone will hold you accountable for what you've said. Better make the next words good ones. 
 
@@ -44,7 +44,7 @@ Lest I forget that shitty is my aim, and the stuffy old habits creep back in, I 
 
 Everyone's set-point for how fanciful they'll allow their shitty first draft to be will be different. I'm fairly reserved, so my "shitty first draft" usually just involves half-sentences, misspellings, and song lyrics that happen to pop into my head. The key is that it's not just ok for this draft to be shitty: _the goal is for it to be shitty_, whatever that means to you. It's the only way to counteract the stiff habits we've built up over so many years. It sounds crazy, but for me, it's indispensible. 
 
-## Types of manuscripts 
+## Types of manuscripts
 
 Now, into the nuts and bolts. Each field has different standards around what constitutes a "publishable unit". In many fields of computer science, communication happens mainly through conference proceedings. In mathematics, manuscripts range from a few hundred words to many pages, with no real limit on the number of figures (if indeed there are any figures at all), and few standards around how the writing must be structured. 
 
@@ -60,7 +60,7 @@ Most of our work will be aimed at journals of medicine, public health, and biolo
 
 The science itself usually dictates which of these is the most fitting venue. Journal webpages should have a tab titled "Information for Authors" where you can find the article types and requirements for that journal. 
 
-## Structure 
+## Structure
 
 For perspectives and reviews, you can structure things however you like. For research articles and research correspondence, however, readers are looking for a very specific structure: the [IMRAD](https://en.wikipedia.org/wiki/IMRAD) structure. IMRAD stands for __Introduction__, __Methods__, __Results__, (and) __Discussion__. The Introduction is meant to start from broad principles and then to gradually drill down into your paper's specific topic. The Methods and Results tell the reader what you did and what you found, with minimal interpretation. The Discussion provides the interpretation of what you found, and then zooms back out to place the research in a broader context. Most descriptions of the IMRAD format will include a schematic that looks something like this (from the [Wikipedia](https://en.wikipedia.org/wiki/IMRAD#/media/File:Wineglass_model_for_IMRaD_structure..png)): 
 
@@ -112,7 +112,7 @@ Then, you'll need to devote a handful of paragraphs to your work's limitations. 
 
 It's helpful to conclude the Discussion with a few concluding sentences. Never, ever end a paper with a sentence like "More research is needed to...". That's for the Limitations. The conclusion should re-iterate the importance of the problem, shed some new light on the remaining challenges, and entice the reader to care deeply about the problem you've just told them about. 
 
-## Style 
+## Style
 
 Scientific writing is no longer supposed to be dry and impersonal. Dry scientific writing was the result of the misguided belief that the scientist should be totally detached from the science, and thus should be absent from any descriptions of the science. This led to awful paragraphs full of passive voice, with inanimate objects marching through all sorts of transitions as if by magic. The philosophy of science has matured, and we now understand that no science is truly objective. Therefore, it is ok, and encouraged, to use "we". 
 
@@ -130,7 +130,7 @@ Papers should be interpretable by reading just the first sentence of each paragr
 
 There are loads of style books out there to help with composing manuscripts. I especially like Strunk/White's "The Elements of Style". These are often worth their weight in gold! 
 
-## Tools 
+## Tools
 
 There are many different tools to help you get from an idea to a finished manuscript. Here are a few that I've used: 
 
@@ -138,7 +138,7 @@ There are many different tools to help you get from an idea to a finished manusc
 - __Scapple:__ This is an intuitive, flexible mind-mapping software that can be helpful for figuring out how ideas relate and how you'd like to structure your arguments. 
 - __Scrivener:__ Made by the same team that created Scapple, Scrivener is a widely used platform for converting disconnected ideas into a full first draft. It allows you to put your ideas onto electronic post-it notes that you can easily re-order as your manuscript takes shape. 
 
-### Writing 
+### Writing
 - __Microsoft Word:__ It's klunky, but it's gotten better, and everyone uses it. It has a nice system for commenting, so depending on your collaborators, it may be the best tool for the job. 
 - __Google Docs:__ Basically the online version of Microsoft Word. This is especially useful if you're going to be collaborating with another author in real-time. Adding references can be a pain, but PaperPile helps. 
 - __LaTeX:__ This is popular in mathy circles. It allows you to generate beautiful drafts with minimal effort, though the learning curve can be steep, since it's more like coding than like what-you-see-is-what-you-get writing (_a la_ Microsoft Word or Google Docs). 
@@ -164,7 +164,7 @@ In addition to the mansucript, journals often require a cover letter, which I'll
 
 You'll also often have to look up a bunch of mundane information about your coauthors (emails, institutions) and you'll usually have to propose between three and five suggested reviewers. It's usually good to scan through the works you've cited and select reviewers from the author lists in your References. 
 
-After you submit the article, you'll usually not hear anything for about two weeks. If the article has been desk rejected (i.e., the editors have decided they don't want the piece, before sending it out for review), you'll get an email notifying you of that fact. Then it's time to aim for a new home. Otherwise, the article is sent for review, where the editor finds 2-3 (sometims up to 4 or 5) individuals in your field, loosely defined, to read and comment upon the accuracy and value of your work. This can take a long time, sometimes months. When you get the reviews back, the editor then makes a decision: either they will reject your paper (and send you the reviews so that you can incorporate some of them when you submit to a new journal), or will ask for a revise and resubmit. The revise and resubmit can entail anything from correcting typos to running many new experiments. It's then up to you, the author, to decide if it's worth your time to make those edits, or instead to try your luck at a different journal. 
+After you submit the article, you'll usually not hear anything for about two weeks. If the article has been desk rejected (i.e., the editors have decided they don't want the piece, before sending it out for review), you'll get an email notifying you of that fact. Then it's time to aim for a new home. Otherwise, the article is sent for review, where the editor finds 2-3 (sometimes up to 4 or 5) individuals in your field, loosely defined, to read and comment upon the accuracy and value of your work. This can take a long time, sometimes months. When you get the reviews back, the editor then makes a decision: either they will reject your paper (and send you the reviews so that you can incorporate some of them when you submit to a new journal), or will ask for a revise and resubmit. The revise and resubmit can entail anything from correcting typos to running many new experiments. It's then up to you, the author, to decide if it's worth your time to make those edits, or instead to try your luck at a different journal. 
 
 If you do decide to revise and resubmit, the journal usually gives you a few weeks to do so. You then will upload and submit the revised version (usually a clean copy and a tracked-changes copy). You will also include a copy of the reviewer's comments with a point-by-point response detailing what you've done to address each request, or (more rarely) why you've decided not to. 
 

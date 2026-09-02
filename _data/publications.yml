@@ -14,24 +14,6 @@ filters:
   - { tag: policy,         label: "Policy & translation" }
 
 items:
-  - title: "How bursty infectiousness shapes epidemic dynamics"
-    authors: "Stephen M. Kissler"
-    venue: "medRxiv"
-    year: 2026
-    type: preprint
-    tags: [viral-kinetics]
-    senior: true
-    url: "https://www.medrxiv.org/content/10.64898/2026.07.15.26358199v1"
-
-  - title: "Making inferences with incomplete epidemiological data: a proof-of-concept estimating measles vaccine coverage across Canada"
-    authors: "Liza Hadley, Rachael Milwid, Valerie Hongoh, Rania Wasfi, Stephen M. Kissler, Irena Papst"
-    venue: "medRxiv"
-    year: 2026
-    type: preprint
-    tags: [surveillance]
-    senior: true
-    url: "https://www.medrxiv.org/content/10.64898/2026.07.16.26358151v1"
-
   - title: "Inferring infectiousness: a joint model of the within-host viral kinetics of SARS-CoV-2"
     authors: "Christopher B. Boyer, Stephen M. Kissler, Seran Hakki, Jakob Jonnerby, Ajit Lalvani, Marc Lipsitch"
     venue: "arXiv"
@@ -40,21 +22,13 @@ items:
     tags: [viral-kinetics]
     url: "https://arxiv.org/abs/2605.20692"
 
-  - title: "How understanding the diversity of perspectives and systems in governments can increase the impact of scientific research"
-    authors: "Liza Hadley, …, Stephen M. Kissler, et al."
-    venue: "Communications Health"
-    year: 2026
-    type: paper
-    tags: [policy]
-    url: "https://doi.org/10.1038/s44528-026-00009-2"
-
   - title: "Understanding and exploiting superspreading to disrupt Mycobacterium tuberculosis transmission"
-    authors: "Tyler S. Brown, Kristin Nelson, Stephen M. Kissler, et al."
+    authors: "Tyler S. Brown, Kristin Nelson, Stephen Kissler, Leo Martinez, C Robert Horsburgh, Laura F White, Barun Mathema, Karen R Jacobson"
     venue: "The Lancet Infectious Diseases"
     year: 2026
     type: paper
-    tags: [networks, ecology]
-    url: "https://doi.org/10.1016/S1473-3099(26)00168-4"
+    tags: [networks]
+    url: "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00168-4/abstract"
 
   - title: "Visualizing epidemiological models for policy: design principles for effective communication"
     authors: "Liza Hadley, Nick Holliman, Kai Xu, …, Stephen M. Kissler"
@@ -83,6 +57,24 @@ items:
     senior: true
     url: "https://www.medrxiv.org/content/10.64898/2026.03.31.26349871v1"
 
+  - title: "How bursty infectiousness shapes epidemic dynamics"
+    authors: "Stephen M. Kissler"
+    venue: "medRxiv"
+    year: 2026
+    type: preprint
+    tags: [viral-kinetics]
+    senior: true
+    url: "https://www.medrxiv.org/content/10.64898/2026.07.15.26358199v1"
+
+  - title: "Making inferences with incomplete epidemiological data: a proof-of-concept estimating measles vaccine coverage across Canada"
+    authors: "Liza Hadley, Rachael Milwid, Valerie Hongoh, Rania Wasfi, Stephen M. Kissler, Irena Papst"
+    venue: "medRxiv"
+    year: 2026
+    type: preprint
+    tags: [surveillance]
+    senior: true
+    url: "https://www.medrxiv.org/content/10.64898/2026.07.16.26358151v1"
+
   - title: "Diagnostic testing as a public health intervention: challenges and opportunities"
     authors: "Kristin Nelson, Tyler S. Brown, Stephen M. Kissler"
     venue: "Future Virology"
@@ -91,22 +83,6 @@ items:
     tags: [surveillance, policy]
     senior: true
     url: "https://www.tandfonline.com/doi/full/10.1080/17460794.2025.2603143"
-
-  - title: "Surveillance strategies for the detection of new pathogen variants across epidemiological contexts"
-    authors: "Kirstin I. Oliveira Roster, Stephen M. Kissler, …, Yonatan H. Grad"
-    venue: "PLOS Computational Biology"
-    year: 2024
-    type: paper
-    tags: [surveillance, ecology]
-    url: "https://doi.org/10.1371/journal.pcbi.1012416"
-
-  - title: "Infectious disease surveillance needs for the United States: Lessons from COVID-19"
-    authors: "Marc Lipsitch, …, Stephen M. Kissler, …, Yonatan H. Grad"
-    venue: "Frontiers in Public Health"
-    year: 2024
-    type: paper
-    tags: [surveillance, policy]
-    url: "https://doi.org/10.3389/fpubh.2024.1408193"
 
   - title: "Drivers of geographic patterns in outpatient antibiotic prescribing in the United States"
     authors: "Stephen M. Kissler, Kirstin I. Oliveira Roster, Rachel Petherbridge, Ateev Mehrotra, Michael L. Barnett, Yonatan H. Grad"
@@ -117,6 +93,14 @@ items:
     senior: true
     url: "https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciae111/7632801"
 
+  - title: "Infectious disease surveillance needs for the United States: Lessons from COVID-19"
+    authors: "Marc Lipsitch, …, Stephen M. Kissler, …, Yonatan H. Grad"
+    venue: "Frontiers in Public Health"
+    year: 2024
+    type: paper
+    tags: [surveillance, policy]
+    url: "https://doi.org/10.3389/fpubh.2024.1408193"
+
   - title: "The impact of vaccines and behavior on US cumulative deaths from COVID-19"
     authors: "Andrew Atkeson, Stephen M. Kissler"
     venue: "Brookings Papers on Economic Activity"
@@ -126,13 +110,13 @@ items:
     senior: true
     url: "https://www.brookings.edu/articles/the-impact-of-vaccines-and-behavior-on-us-cumulative-deaths-from-covid-19/"
 
-  - title: "Spatiotemporal trends in Group A Streptococcal pharyngitis in the United States"
-    authors: "Madeleine C. Kline, Stephen M. Kissler, Lilith K. Whittles, Michael L. Barnett, Yonatan H. Grad"
-    venue: "Clinical Infectious Diseases"
+  - title: "Surveillance strategies for the detection of new pathogen variants across epidemiological contexts"
+    authors: "Kirstin I. Oliveira Roster, Stephen M. Kissler, …, Yonatan H. Grad"
+    venue: "PLOS Computational Biology"
     year: 2024
     type: paper
-    tags: [ecology, antibiotics]
-    url: "https://doi.org/10.1093/cid/ciae083"
+    tags: [surveillance, ecology]
+    url: "https://doi.org/10.1371/journal.pcbi.1012416"
 
   - title: "Viral kinetics of sequential SARS-CoV-2 infections"
     authors: "Stephen M. Kissler, James A. Hay, Joseph R. Fauver, Christina Mack, …, Yonatan H. Grad"
@@ -143,13 +127,66 @@ items:
     senior: true
     url: "https://www.nature.com/articles/s41467-023-41941-z"
 
-  - title: "Model-informed COVID-19 vaccine prioritization strategies by age and serostatus"
-    authors: "Kate M. Bubar, Kyle Reinholt, Stephen M. Kissler, Marc Lipsitch, Sarah Cobey, Yonatan H. Grad, Daniel B. Larremore"
-    venue: "Science"
+  - title: "Impact of respiratory infection and chronic comorbidities on early pediatric antibiotic dispensing in the United States"
+    authors: "Stephen M Kissler, Bill Wang, Ateev Mehrotra, Michael Barnett, Yonatan H Grad"
+    venue: "Clinical Infectious Diseases"
+    year: 2023
+    type: paper
+    tags: [antibiotics]
+    senior: true
+    url: "https://academic.oup.com/cid/article/76/3/382/6748284"
+
+  - title: "Quantifying the impact of immune history and variant on SARS-CoV-2 viral kinetics and infection rebound: A retrospective cohort study"
+    authors: "James A Hay, Stephen M Kissler, Joseph R Fauver, Christina Mack, …, Nathan D Grubaugh, Yonatan H Grad"
+    venue: "eLife"
+    year: 2022
+    type: paper
+    tags: [viral-kinetics]
+    senior: true
+    url: "https://elifesciences.org/articles/81849.pdf"
+
+  - title: "Anticipating racial/ethnic mortality displacement from COVID-19"
+    authors: "Stephen M Kissler, Yonatan H Grad"
+    venue: "American Journal of Epidemiology"
+    year: 2022
+    type: paper
+    tags: [policy]
+    senior: true
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9383750/"
+
+  - title: "Characterizing SARS-CoV-2 viral clearance kinetics to improve the design of antiviral pharmacometric studies"
+    authors: "James A Watson, Stephen M Kissler, Nicholas PJ Day, Yonatan H Grad, Nicholas J White"
+    venue: "Antimicrobial agents and chemotherapy"
+    year: 2022
+    type: paper
+    tags: [viral-kinetics]
+    url: "https://journals.asm.org/doi/full/10.1128/aac.00192-22"
+
+  - title: "Viral dynamics of SARS-CoV-2 variants in vaccinated and unvaccinated persons"
+    authors: "Stephen M Kissler, Joseph R Fauver, Christina Mack, …, Nathan D Grubaugh, Yonatan H Grad"
+    venue: "New England Journal of Medicine"
     year: 2021
     type: paper
-    tags: [policy, networks]
-    url: "https://www.science.org/doi/10.1126/science.abe6959"
+    tags: [viral-kinetics]
+    senior: true
+    url: "https://www.nejm.org/doi/pdf/10.1056/NEJMc2102507"
+
+  - title: "Reduction in antibiotic prescribing attainable with a gonococcal vaccine"
+    authors: "Stephen M Kissler, Moriah Mitchell, Yonatan H Grad"
+    venue: "Clinical Infectious Diseases"
+    year: 2021
+    type: paper
+    tags: [antibiotics]
+    senior: true
+    url: "https://academic.oup.com/cid/article/73/6/e1368/6205093"
+
+  - title: "Waning immunity and the second wave: Some projections for SARS-CoV-2"
+    authors: "Chryssi Giannitsarou, Stephen Kissler, Flavio Toxvaerd"
+    venue: "American Economic Review: Insights"
+    year: 2021
+    type: paper
+    tags: [policy]
+    url: "https://www.aeaweb.org/content/file?id=15156"
 
   - title: "Viral dynamics of acute SARS-CoV-2 infection and applications to diagnostic and public health strategies"
     authors: "Stephen M. Kissler, Joseph R. Fauver, Christina Mack, et al."
@@ -160,6 +197,50 @@ items:
     senior: true
     url: "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001333"
 
+  - title: "Childhood respiratory outpatient visits correlate with socioeconomic status and drive geographic patterns in antibiotic prescribing"
+    authors: "Stephen M Kissler, R Monina Klevens, Michael L Barnett, Yonatan H Grad"
+    venue: "The Journal of Infectious Diseases"
+    year: 2021
+    type: paper
+    tags: [antibiotics]
+    senior: true
+    url: "https://academic.oup.com/jid/article-abstract/223/12/2029/6254255"
+
+  - title: "Distinguishing the roles of antibiotic stewardship and reductions in outpatient visits in generating a 5-year decline in antibiotic prescribing"
+    authors: "Stephen M Kissler, R Monina Klevens, Michael L Barnett, Yonatan H Grad"
+    venue: "Clinical Infectious Diseases"
+    year: 2021
+    type: paper
+    tags: [antibiotics]
+    senior: true
+    url: "https://academic.oup.com/cid/article-abstract/72/9/1568/5805521"
+
+  - title: "Model-informed COVID-19 vaccine prioritization strategies by age and serostatus"
+    authors: "Kate M. Bubar, Kyle Reinholt, Stephen M. Kissler, Marc Lipsitch, Sarah Cobey, Yonatan H. Grad, Daniel B. Larremore"
+    venue: "Science"
+    year: 2021
+    type: paper
+    tags: [policy, networks]
+    url: "https://www.science.org/doi/10.1126/science.abe6959"
+
+  - title: "Reductions in commuting mobility correlate with geographic differences in SARS-CoV-2 prevalence in New York City"
+    authors: "Stephen M Kissler, Nishant Kishore, …, Caroline O Buckee, Yonatan H Grad"
+    venue: "Nature communications"
+    year: 2020
+    type: paper
+    tags: [surveillance, policy]
+    senior: true
+    url: "https://www.nature.com/articles/s41467-020-18271-5"
+
+  - title: "Ending the HIV epidemic in the USA"
+    authors: "Brooke E Nichols, Stephen M Kissler"
+    venue: "The Lancet HIV"
+    year: 2020
+    type: paper
+    tags: [surveillance, policy]
+    senior: true
+    url: "https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(20)30051-5/abstract"
+
   - title: "Projecting the transmission dynamics of SARS-CoV-2 through the post-pandemic period"
     authors: "Stephen M. Kissler, Christine Tedijanto, Edward Goldstein, Yonatan H. Grad, Marc Lipsitch"
     venue: "Science"
@@ -169,6 +250,39 @@ items:
     senior: true
     url: "https://www.science.org/doi/10.1126/science.abb5793"
 
+  - title: "Symbolic transfer entropy reveals the age structure of pandemic influenza transmission from high-volume influenza-like illness data"
+    authors: "Stephen M Kissler, Cécile Viboud, Bryan T Grenfell, Julia R Gog"
+    venue: "Journal of The Royal Society Interface"
+    year: 2020
+    type: paper
+    tags: [ecology, networks]
+    senior: true
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7115222/"
+
+  - title: "Contacts in context: large-scale setting-specific social mixing matrices from the BBC Pandemic project"
+    authors: "Petra Klepac, Adam J Kucharski, Andrew JK Conlan, Stephen Kissler, Maria L Tang, Hannah Fry, Julia R Gog"
+    venue: "MedRxiv"
+    year: 2020
+    type: preprint
+    tags: [networks]
+    url: "https://www.medrxiv.org/content/10.1101/2020.02.16.20023754.abstract"
+
+  - title: "Sparking “The BBC Four Pandemic”: Leveraging citizen science and mobile phones to model the spread of disease"
+    authors: "Stephen M Kissler, Petra Klepac, Maria Tang, Andrew JK Conlan, Julia R Gog"
+    venue: "bioRxiv"
+    year: 2020
+    type: preprint
+    tags: [networks]
+    url: "https://www.biorxiv.org/content/10.1101/479154.abstract"
+
+  - title: "Geographic transmission hubs of the 2009 influenza pandemic in the United States"
+    authors: "Stephen M Kissler, Julia R Gog, Cécile Viboud, Vivek Charu, Ottar N Bjørnstad, Lone Simonsen, Bryan T Grenfell"
+    venue: "Epidemics"
+    year: 2019
+    type: paper
+    tags: [ecology]
+    url: "https://www.sciencedirect.com/science/article/pii/S1755436517301196"
+
   - title: "Urbanization and humidity shape the intensity of influenza epidemics in U.S. cities"
     authors: "Benjamin D. Dalziel, Stephen Kissler, Julia R. Gog, Cécile Viboud, Ottar N. Bjørnstad, C. Jessica E. Metcalf, Bryan T. Grenfell"
     venue: "Science"
@@ -176,3 +290,11 @@ items:
     type: paper
     tags: [ecology, networks]
     url: "https://www.science.org/doi/10.1126/science.aat6030"
+
+  - title: "Contagion! The BBC Four Pandemic–The model behind the documentary"
+    authors: "Petra Klepac, Stephen Kissler, Julia Gog"
+    venue: "Epidemics"
+    year: 2018
+    type: paper
+    tags: [ecology, networks]
+    url: "https://www.sciencedirect.com/science/article/pii/S1755436518300306"

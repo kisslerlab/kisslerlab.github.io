@@ -14,13 +14,17 @@ wide: true
 {% for theme in site.data.research %}
   {% assign is_even = forloop.index | modulo: 2 %}
   <section class="theme-row{% if is_even == 0 %} theme-row--rev{% endif %}" id="{{ theme.id }}">
-    <div class="theme-media">
-      <img src="{{ theme.image | relative_url }}" alt="Animation illustrating {{ theme.title | downcase }}">
+    <div class="theme-media{% unless theme.image %} theme-media--empty{% endunless %}">
+      {% if theme.image %}
+        <img src="{{ theme.image | relative_url }}" alt="Figure illustrating {{ theme.title | downcase }}">
+      {% else %}
+        <svg class="theme-media__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L6 20"/></svg>
+      {% endif %}
     </div>
     <div class="theme-text">
       <span class="theme-num">{{ theme.number }}</span>
       <h2>{{ theme.title }}</h2>
-      <p class="theme-tagline">{{ theme.tagline }}</p>
+      {% if theme.tagline %}<p class="theme-tagline">{{ theme.tagline }}</p>{% endif %}
       <p>{{ theme.summary }}</p>
     </div>
   </section>

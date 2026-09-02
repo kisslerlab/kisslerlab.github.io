@@ -11,17 +11,17 @@ I'm so glad you're interested in the lab. Whether you're a prospective student o
 
 ### Our mission
 Our mission is to conduct rigorous, impactful science for the public good. This includes: 
-1. Building up our society's intellectual and physical capacity to anticipate, manage, and heal from crises, especially as they relate to infectious diseases;
+1. Building up our society's intellectual and technological capacity to anticipate, manage, and heal from crises, especially as they relate to infectious diseases;
 2. Conducting our research in an open, honest, and responsive manner; 
 3. Fostering a healthy scientific community both within and beyond our lab.
 
-### Academic integrity 
+### Academic integrity
 Scientific integrity is of the utmost importance, especially when dealing with research questions that may have far-reaching impacts on many peoples' lives. It's OK to be wrong; I'm wrong all the time. The important thing is to learn from our mistakes, to humbly accept criticism, and to defend our ideas based on their own merit rather than by our personal stake in their success. At a baseline, this means to never "fudge" data or images, to post the maximum amount of code and data that doesn't compromise privacy or safety, and to respond to reasonable requests for information from other scientists. 
 
 People can sometimes be unnecessarily and unhelpfully critical, especially in the age of social media. Twitter is an amazing communication tool and yet it can be a frightening place. Online confrontations are a major test of integrity. Academic integrity requires personal integrity in all of our scientific dealings, both online and offline. If someone has said something annoying, I suggest writing your unfiltered thoughts in a private text document and then wait to write your actual reply until you've cooled off. If someone has said something offensive, hateful, or threatening, tell me or someone else who you trust, and we'll deal with it together, immediately. 
 
 ### Equity and Justice
-For our purposes, [equity](https://onlinepublichealth.gwu.edu/resources/equity-vs-equality/) means providing to each according to the needs of each, and [justice](https://onlinepublichealth.gwu.edu/resources/equity-vs-equality/) is essentially long-term equity, achieved through systems-level change. Both are key pillars of our lab, guiding both the work we do and the way we do it. We work towards these aims in the following ways: 
+For our purposes, [equity](https://onlinepublichealth.gwu.edu/resources/equity-vs-equality/) means providing to each according to the needs of each, and [justice](https://onlinepublichealth.gwu.edu/resources/equity-vs-equality/) is essentially long-term equity, achieved through both small actions integrated over time and through systems-level change. Both are key pillars of our lab, guiding both the work we do and the way we do it. We work towards these aims in the following ways: 
 1. __Outreach:__ There remain huge disparities between the overall demographic composition of the U.S. and the demographic composition of the people who pursue higher education and academic careers. This ultimately puts a limit on our ability, as researchers, to be as scientifically creative and socially aware as we might otherwise be. One of the most fundamental ways we can help to address this issue is by sharing what we do with students who might not otherwise see scientific research as a viable career option. We'll schedule periodic outreach activities at schools in the Denver/Boulder area as well as in rural districts to do our part to close this gap. 
 2. __Recruitment:__ I aim to maintain a diverse lab with trainees from a wide variety of backgrounds. Lab openings will be posted publicly to try to draw from a wide pool of applicants. This is an area where I'm actively trying to learn, since I don't yet know how best to advertise to prospective trainees from underrepresented backgrounds. If you know of any schemes or have any suggestions, please do let me know! 
 3. __Lab community:__ As a lab, our greatest resource is each other. I will provide various opportunities for lab members to share about their life experiences, from what they're currently experiencing to what got them to where they are. Each new lab member will have the opportunity to use their first lab meeting to share a bit about who they are, where they came from, and what they're aiming towards. The aim of this is to get us thinking about how other people experience the world and to bring that experience into our own daily workings. <br> <br>
@@ -38,7 +38,7 @@ The rest of this document contains more detail on my expectations of lab members
 5. Let me or another trusted mentor know if they are facing any challenges that they are unable to resolve on their own, and especially if they feel they are being treated in a way that makes them uncomfortable; 
 6. Think creatively and deeply about how they can best support the public good, through their research and other academic work. 
 
-### My pledge to lab members 
+### My pledge to lab members
 In turn, I will: 
 1. Speak and act respectfully toward all lab members, colleagues, and the public;
 2. Respond to good-faith requests for changes in how I act or speak;
@@ -49,15 +49,13 @@ In turn, I will:
 
 ## Lab life <!-- ----------------------------------------------------------- -->
 
-### Meetings 
+### Meetings
 
 - __One-on-ones__: I meet with new graduate students (during their first year) and new postdocs (during their first three months) weekly. After that period, it's up to the student/postdoc whether they'd like to continue meeting weekly or if they'd prefer to transition to every other week. Please send a brief agenda before each meeting (via Slack) to keep us on track. Meetings are 45 minutes, so that I can use the last 15 minutes to jot down notes about our conversation, send follow-up emails, and prep for the next meeting. The time is yours: I expect to spend most of our time talking about research, but feel free to bring up other career- and life-related things too! 
 
 - __Lab meetings:__ Once our lab reaches a critical mass, we'll begin having weekly lab meetings. These meetings will be research-focused and oriented towards workshoping projects that are ongoing. Each week, a different lab member will present. The aim is for them to be maximally useful to the presenter. The meetings will last for an hour (we'll do everything we can to not exceed that), and it's up to the presenter to decide how best to balance between formal presentation and discussion/questions. 
 
 - __Research practice meetings:__ Once per rotation, we'll replace one lab meeting with a "research practice" meeting. At each of these meetings, we'll discuss a different topic related to various tasks of doing science, such as making presentations, writing manuscripts, using LaTeX, formulating compartmental epidemiological models, and so on. I'll begin by giving a brief introduction to the topic and then we'll open up to a discussion where lab members can share tips and tricks they've learned along the way. 
-
-- __Social justice meetings:__ Once per rotation, we'll also replace one lab meeting with a "social justice" meeting, since health is about more than just disease, and more than just modeling. At these meetings, we'll discuss a reading (to be chosen by lab members) that helps us to think more deeply about our citizenship in the lab, university, and our larger communities. Readings may focus on diversity, equity, inclusion, political advocacy, community service, and related topics. They should help us think imaginatively about concrete positive changes we can make to improve the lives of those around us. 
 
 ### Working hours
 - I expect lab members (including myself) to be semi-responsive electronically between 10am-4pm on work days. Don't worry, I won't be monitoring your response time – just try not to be totally checked out. 
@@ -93,19 +91,19 @@ Every six months, I'll devote a one-on-one meeting to discuss progress, short-te
 
 ## Research best practice <!-- --------------------------------------------- -->
 
-### Open science 
-I am a firm believer in making scientific discovery accessible to all. Our code is posted on public repositories on Github and our manuscripts are posted on preprint servers to ensure the widest possible access. If at any time you feel like I'm not living up to this ideal, let me know and I'll make a change. 
+### Open science
+I am a firm believer in making scientific discovery accessible to all. Our code is posted on public repositories on GitHub and our manuscripts are posted on preprint servers to ensure the widest possible access. If at any time you feel like I'm not living up to this ideal, let me know and I'll make a change. 
 
 ### Writing code
-Open code is one key part of conducting open science. Github is our lab's tool of choice for achieving this. It's ok to keep your code repositories private while they're under construction, but I encourage everyone to make their full version histories public once a project is submitted for publication. It's helpful to keep this in mind from the start! See [Guidance for developing code](/guides/code) for more detailed information.
+Open code is one key part of conducting open science. GitHub is our lab's tool of choice for achieving this. It's ok to keep your code repositories private while they're under construction, but I encourage everyone to make their full version histories public once a project is submitted for publication. It's helpful to keep this in mind from the start! See [Guidance for developing code](/guides/code) for more detailed information.
 
 ### Documenting research
-We need our science to be reproducible, which means ensuring that lab work is sufficiently documented for members of the group to hand off projects to one another when necessary. Toward this end, each member of the lab will have a personal repository on Github where they'll keep a running lab notebook. You can include as much in this notebook as you like, but at a minimum it should include enough information to re-create your thought process as you worked through various research problems. See the [Guidance for developing code](/guides/code) for pointers on how to set up an online lab notebook on Github using Markdown. 
+We need our science to be reproducible, which means ensuring that lab work is sufficiently documented for members of the group to hand off projects to one another when necessary. Toward this end, each member of the lab will have a personal repository on GitHub where they'll keep a running lab notebook. You can include as much in this notebook as you like, but at a minimum it should include enough information to re-create your thought process as you worked through various research problems. See the [Guidance for developing code](/guides/code) for pointers on how to set up an online lab notebook on GitHub using Markdown. 
 
-### Writing manuscripts 
+### Writing manuscripts
 Good scientific writing is as important as the science itself. I strongly encourage lab members to start writing as early as possible, since writing often helps to clarify thoughts and highlight key gaps in a project. I expect trainees to supply a fleshed-out first draft on their own, after which we can iterate back and forth with edits and revisions. I am competent with LaTeX (Overleaf is especially good), Microsoft Word, and Google Docs; feel free to pick whichever one is most suitable to your project and your skills. I'm a big fan of the IMRAD format (Introduction, Methods, Results, and Discussion) – please, no results immediately following the introduction. I've collected some pointers on writing good scientific prose on the [Guidance for writing manuscripts](/guides/manuscripts) page. 
 
-### Giving presentations 
+### Giving presentations
 Presentations are a key part of scientific communication. I aim to give lab members ample opportunities to present their work to a variety of audiences. Internal talks need not be especially polished, but external ones should be. See the page on [Guidance for giving presentations](/guides/presentations) for more info. 
 
 ### Public engagement
@@ -141,12 +139,12 @@ Below is an incomplete list of recent collaborators with whom I can put you in c
 ### Graduate students
 - __F31:__ NIH training grant for research in the health sciences. 
 
-### Postdocs 
+### Postdocs
 - __F32:__ NIH training grant for research in the health sciences 
 - __Life Sciences Research Fellowship:__ Training fellowship for basic life sciences research. 
 - __Burroughs Wellcome Career Award at the Scientific Interface:__ Training fellowship for research at the intersection of the life and computational sciences, bridging the late postdoctoral and early faculty period. 
 
 ## Where to go for help <!-- ----------------------------------------------- -->
-If you have any questions or concerns about anything at all, you can reach out to Stephen (skissler@hsph.harvard.edu) anytime. If you need to talk to someone who's not Stephen, you can reach out to Dan Larremore (daniel.larremore@colorado.edu) or Ken Anderson (kena@cs.colorado.edu). Also check out the resources available at [CAPS](https://www.colorado.edu/counseling/){:target="_blank"}, [FSAP](https://www.colorado.edu/hr/faculty-staff-assistance-program){:target="_blank"}, the [BOLD Center](https://www.colorado.edu/engineering/bold){:target="_blank"}, and [Wardenburg](https://www.colorado.edu/healthcenter/){:target="_blank"}. 
+If you have any questions or concerns about anything at all, you can reach out to Stephen (skissler@hsph.harvard.edu) anytime. If you need to talk to someone who's not Stephen, you can reach out to Dan Larremore (daniel.larremore@colorado.edu) or Sriram Sankaranarayanan (srirams@Colorado.EDU). Also check out the resources available at [CAPS](https://www.colorado.edu/counseling/){:target="_blank"}, [FSAP](https://www.colorado.edu/hr/faculty-staff-assistance-program){:target="_blank"}, the [BOLD Center](https://www.colorado.edu/engineering/bold){:target="_blank"}, and [Wardenburg](https://www.colorado.edu/healthcenter/){:target="_blank"}. 
 
 
