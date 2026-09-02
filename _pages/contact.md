@@ -32,5 +32,13 @@ wide: true
 .contact-grid h3 { font-size: 1rem; text-transform: uppercase; letter-spacing: .1em; color: var(--accent); margin: 1.6rem 0 .3rem; }
 .contact-grid h3:first-child { margin-top: 0; }
 .contact-grid p { margin: 0; }
+/* Map: desaturated to sit calmly in the palette, fading gently to full colour on
+   hover. Both states keep the same filter functions so the values tween smoothly. */
+.contact-map iframe { filter: grayscale(1) contrast(1.02); transition: filter .6s ease; }
+.contact-map iframe:hover { filter: grayscale(0) contrast(1.02); }
+@media (prefers-color-scheme: dark) {
+  .contact-map iframe { filter: grayscale(1) brightness(.82) contrast(1.05); }
+  .contact-map iframe:hover { filter: grayscale(0) brightness(.95) contrast(1.05); }
+}
 @media (max-width: 720px) { .contact-grid { grid-template-columns: 1fr; } }
 </style>

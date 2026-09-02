@@ -52,6 +52,12 @@
     }
   }
 
+  /* ---------- open "Latest from the lab" links in new tabs ---------- */
+  document.querySelectorAll(".news-feed a").forEach(function (a) {
+    a.target = "_blank";
+    a.rel = "noopener";
+  });
+
   /* ---------- publication filters ---------- */
   var chips = document.querySelectorAll("[data-filter]");
   var rows = document.querySelectorAll("[data-tags]");
