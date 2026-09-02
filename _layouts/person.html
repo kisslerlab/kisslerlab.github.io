@@ -16,7 +16,7 @@ layout: default
         <ul class="person-links">
           {% for link in p.links %}
             <li><a href="{{ link.url }}"{% unless link.url contains 'mailto' %} target="_blank" rel="noopener"{% endunless %}>
-              {% if link.icon %}<i class="{{ link.icon }}" aria-hidden="true"></i>{% endif %}<span>{{ link.label }}</span>
+              {% if link.icon %}{% include icon.html key=link.icon %}{% endif %}<span>{{ link.label }}</span>
             </a></li>
           {% endfor %}
         </ul>

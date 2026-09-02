@@ -115,7 +115,7 @@ git diff _data/publications.yml
 | Path | What |
 |------|------|
 | `_layouts/` | Page shells: `default`, `home`, `page`, `person`, `post` |
-| `_includes/` | `head`, `nav`, `footer`, `authors` (name bolding) |
+| `_includes/` | `head`, `nav`, `footer`, `authors` (name bolding), `icon` (inline SVG link icons) |
 | `_data/` | `publications`, `people`, `research`, `navigation`, `lab_names` |
 | `_pages/` | Content pages (home, research, people bios, teaching, guides, handbook, contact) |
 | `assets/css/main.scss` | The whole design system (palette, type, components) |
