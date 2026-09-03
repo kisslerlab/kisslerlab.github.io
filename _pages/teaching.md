@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-lead: "Courses I teach, spanning data science, statistical inference, and computational biology."
+lead: "Past and current courses, spanning data science, statistical inference, and computational biology."
 ---
 
 - Intro to Data Science with Probability and Statistics (CSCI 3022) <br> (F26) 
