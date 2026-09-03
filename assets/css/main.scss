@@ -153,9 +153,9 @@ strong { font-weight: 600; }
   background: var(--accent); transform: scaleX(0); transform-origin: left; transition: transform .25s var(--ease);
 }
 .site-nav a:not(.nav-cta):hover::after, .site-nav a[aria-current="page"]:not(.nav-cta)::after { transform: scaleX(1); }
-.nav-cta { padding: .48rem 1rem; border-radius: 999px; background: var(--ink); color: #fff !important; }
-@media (prefers-color-scheme: dark){ .nav-cta{ background: var(--accent); color:#0c141f !important;} }
-.nav-cta:hover { background: var(--accent); }
+.nav-cta { padding: .48rem 1rem; border-radius: 999px; background: var(--accent); color: #fff !important; }
+@media (prefers-color-scheme: dark){ .nav-cta{ color:#0c141f !important;} }
+.nav-cta:hover { background: color-mix(in srgb, var(--accent) 86%, #000); }
 
 .nav-toggle { display: none; flex-direction: column; gap: 5px; background: none; border: 0; padding: 8px; cursor: pointer; }
 .nav-toggle span { width: 24px; height: 2px; background: var(--ink); border-radius: 2px; transition: transform .3s, opacity .3s; }
@@ -171,7 +171,7 @@ strong { font-weight: 600; }
 }
 .hero-watermark {
   position: absolute; right: -6%; top: 50%; transform: translateY(-50%);
-  width: min(560px, 55%); height: auto; opacity: .06;
+  width: min(560px, 55%); height: auto; opacity: .05;
   pointer-events: none; user-select: none;
 }
 .hero-grain { position: absolute; inset: 0; opacity: .06; pointer-events: none;
@@ -199,9 +199,7 @@ strong { font-weight: 600; }
   .hero-lead { color: #c8d3e0; }
   .hero-scroll { color: rgba(255,255,255,.55); }
   .hero-scroll:hover { color: #fff; }
-  .join { background: radial-gradient(120% 140% at 15% 0%, #1a3350 0%, var(--ink) 60%, #07101b 100%); color: #fff; }
-  .join h2 { color: #fff; }
-  .join p { color: #c8d3e0; }
+  .hero .btn-ghost { color: #fff; }
 }
 
 /* ============================================================
@@ -284,6 +282,11 @@ strong { font-weight: 600; }
 .join-inner { max-width: 620px; margin-inline: auto; }
 .join h2 { color: var(--ink); font-size: clamp(1.9rem, 4vw, 2.6rem); margin: 0 0 1rem; }
 .join p { color: var(--muted); font-size: 1.1rem; margin: 0 0 2rem; }
+@media (prefers-color-scheme: dark) {
+  .join { background: radial-gradient(120% 140% at 15% 0%, #1a3350 0%, var(--ink) 60%, #07101b 100%); color: #fff; }
+  .join h2 { color: #fff; }
+  .join p { color: #c8d3e0; }
+}
 .join-cta { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
 
 /* ============================================================
