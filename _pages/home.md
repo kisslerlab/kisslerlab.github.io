@@ -33,15 +33,15 @@ description: >-
 - __Sep:__ New paper! [Surveillance strategies for the detection of new pathogen variants across epidemiological contexts](https://doi.org/10.1371/journal.pcbi.1012416) in *PLOS Computational Biology* with Kirstin Oliveira Roster, Yonatan Grad, and others.
 - __Jul 24:__ New grant awarded with Co-PI Daniel Larremore: "Quantifying the design of effective testing-based policies through infection trajectory modeling" (NSF/CDC).
 - __Jul:__ New paper! [Infectious disease surveillance needs for the United States: Lessons from COVID-19](https://doi.org/10.3389/fpubh.2024.1408193) in *Frontiers in Public Health* with Marc Lipsitch, Yonatan Grad, and others.
-- __Jun 15:__ Welcome [Maia Richards-Dinger](/people/MaiaRichardsDinger/), PhD candidate working in the lab!
+- __Jun 15:__ Welcome [Maia Richards-Dinger](/people/MaiaRichardsDinger/), PhD student working in the lab!
 - __May:__ New paper! [Spatiotemporal trends in Group A Streptococcal pharyngitis in the United States](https://doi.org/10.1093/cid/ciae083) in *Clinical Infectious Diseases* with Madeleine Kline and others.
 - __Mar 21:__ New paper! [Drivers of geographic patterns in outpatient antibiotic prescribing in the United States](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciae111/7632801) in *Clinical Infectious Diseases* with Kirstin Roster (co-first author), Rachel Petherbridge, Ateev Mehrotra, Michael Barnett, and Yonatan Grad.
 - __Mar 14:__ New paper! [The impact of vaccines and behavior on US cumulative deaths from COVID-19](https://www.brookings.edu/articles/the-impact-of-vaccines-and-behavior-on-us-cumulative-deaths-from-covid-19/) in the *Brookings Papers on Economic Activity* with Andrew Atkeson. See also the writeup in [CU Boulder Today](https://www.colorado.edu/today/2024/05/09/social-distancing-plus-vaccines-prevented-800000-covid-deaths-great-cost).
-- __Jan 12:__ Welcome [Carolyn Fulton](/people/CarolynFulton/), PhD candidate working in the lab!
+- __Jan 12:__ Welcome [Carolyn Fulton](/people/CarolynFulton/), PhD student working in the lab!
 
 ### 2023
 - __Oct 29:__ New paper! [Viral kinetics of sequential SARS-CoV-2 infections](https://www.nature.com/articles/s41467-023-41941-z) in *Nature Communications* with James Hay, Joseph Fauver, Christina Mack, and others.
 - __Oct 23:__ Stephen presented two posters at IDWeek in Boston, MA.
-- __Sep 30:__ Welcome [Arindrajit Paul](/people/ArindrajitPaul/) and [Nour Rahal-Arabi](/people/NourRahalArabi/), MS candidates working in the lab!
+- __Sep 30:__ Welcome [Arindrajit Paul](/people/ArindrajitPaul/) and [Nour Rahal-Arabi](/people/NourRahalArabi/), MS students working in the lab!
 - __Sep 19:__ Stephen gave a virtual talk on "Virtue in caring for the individual and caring for the collective" at the Kern National Network for Flourishing in Medicine Conference.
 - __Mar 27:__ Stephen gave a talk on introductory epidemiological modeling at the MIDAS Diversity Conference in Boston.

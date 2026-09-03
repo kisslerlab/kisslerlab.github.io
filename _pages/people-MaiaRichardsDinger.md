@@ -5,7 +5,7 @@ title: ""
 author:
   name   : "Maia Richards-Dinger"
   avatar : "/assets/images/maia_richardsdinger.png"
-  bio    : PhD Candidate<br>Department of Applied Mathematics<br>University of Colorado Boulder
+  bio    : PhD Student<br>Department of Applied Mathematics<br>University of Colorado Boulder
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"

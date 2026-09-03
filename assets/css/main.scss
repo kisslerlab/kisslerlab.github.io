@@ -19,6 +19,7 @@
   --muted:     #5c6773;
   --line:      #e6e8ec;
   --line-2:    #eef0f3;
+  --paper:     #f5f2ec;   /* fixed light "paper" tone for figure panels (both themes) */
 
   /* accents */
   --accent:    #2563eb;   /* cobalt blue */
@@ -363,11 +364,19 @@ strong { font-weight: 600; }
 .theme-row { display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: center; padding: 3rem 0; border-bottom: 1px solid var(--line); scroll-margin-top: 90px; }
 .theme-row:last-of-type { border-bottom: 0; }
 .theme-row--rev .theme-media { order: 2; }
-.theme-media { border-radius: var(--radius-lg); overflow: hidden; background: #0d1b2a; box-shadow: var(--shadow-md); }
-.theme-media img { width: 100%; }
+.theme-media { border-radius: var(--radius-lg); overflow: hidden; background: var(--paper); box-shadow: var(--shadow-md); aspect-ratio: 16 / 10; padding: 4%; }
+.theme-media img { width: 100%; height: 100%; object-fit: contain; }
 /* Blank placeholder shown until a figure is added (image: is empty in research.yml). */
-.theme-media--empty { background: var(--bg-soft); box-shadow: none; border: 1.5px dashed var(--line); display: grid; place-items: center; aspect-ratio: 16 / 10; }
-.theme-media__icon { width: 46px; height: 46px; color: var(--muted); opacity: .55; }
+.theme-media--empty { background: var(--paper); box-shadow: none; border: 1.5px dashed #d8d2c4; display: grid; place-items: center; aspect-ratio: 16 / 10; }
+.theme-media__icon { width: 46px; height: 46px; color: #b3ab99; }
+/* Dark mode: dark "slate" panel + invert the black line-art to light strokes.
+   (Assumes monochrome line art on transparent — the lab's drawing style.) */
+@media (prefers-color-scheme: dark) {
+  :root { --paper: #16212e; }
+  .theme-media img { filter: invert(1); }
+  .theme-media--empty { border-color: #2b3947; }
+  .theme-media__icon { color: #5f6f81; }
+}
 .theme-num { font-family: var(--font-display); font-weight: 700; color: var(--accent); font-size: 1rem; letter-spacing: .08em; }
 .theme-text h2 { font-size: clamp(1.5rem, 3vw, 2.1rem); margin: .4rem 0 .3rem; }
 .theme-tagline { font-family: var(--font-display); color: var(--accent-3); font-weight: 500; margin: 0 0 1rem; }

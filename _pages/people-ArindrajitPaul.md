@@ -5,7 +5,7 @@ title: ""
 author:
   name   : "Arindrajit Paul"
   avatar : "/assets/images/arindrajit.jpg"
-  bio    : MS Candidate<br>Department of Computer Science<br>University of Colorado Boulder
+  bio    : MS Student<br>Department of Computer Science<br>University of Colorado Boulder
   links:
     - label: "CV"
       icon: "fas fa-fw fa-link"

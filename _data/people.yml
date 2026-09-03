@@ -17,20 +17,20 @@ current:
     page: /people/LizaHadley/
 
   - name: "Maia Richards-Dinger"
-    role: "PhD Candidate"
+    role: "PhD Student"
     dept: "Applied Mathematics"
     photo: /assets/images/maia_richardsdinger.png
     page: /people/MaiaRichardsDinger/
 
   - name: "Lucy Wilson"
-    role: "Rotation Student"
+    role: "PhD Student"
     dept: "Applied Mathematics"
-    photo:
+    photo: /assets/images/lucy_wilson.jpg
     page: /people/LucyWilson/
 
 alumni:
   - name: "Carolyn Fulton"
-    role: "PhD Candidate"
+    role: "PhD Student"
     dept: "Computer Science"
     photo: /assets/images/carolyn_fulton.jpg
     page: /people/CarolynFulton/

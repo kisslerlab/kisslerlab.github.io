@@ -1,7 +1,7 @@
 ---
 permalink: /handbook/
 title: "Lab Handbook"
-lead: "How we work, what we value, and what to expect in the lab — for prospective and current members alike."
+lead: "How we work, what we value, and what to expect in the lab."
 ---
 
 ## Welcome! <!-- ----------------------------------------------------------- -->
