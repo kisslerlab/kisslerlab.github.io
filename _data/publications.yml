@@ -98,7 +98,7 @@ items:
     venue: "Frontiers in Public Health"
     year: 2024
     type: paper
-    tags: [interventions]
+    tags: [interventions, testing]
     url: "https://doi.org/10.3389/fpubh.2024.1408193"
 
   - title: "The impact of vaccines and behavior on US cumulative deaths from COVID-19"
@@ -106,7 +106,7 @@ items:
     venue: "Brookings Papers on Economic Activity"
     year: 2024
     type: paper
-    tags: [ecology, testing]
+    tags: [ecology, interventions, testing]
     senior: true
     url: "https://www.brookings.edu/articles/the-impact-of-vaccines-and-behavior-on-us-cumulative-deaths-from-covid-19/"
 
@@ -115,7 +115,7 @@ items:
     venue: "PLOS Computational Biology"
     year: 2024
     type: paper
-    tags: [interventions, ecology]
+    tags: [interventions, testing, ecology]
     url: "https://doi.org/10.1371/journal.pcbi.1012416"
 
   - title: "Viral kinetics of sequential SARS-CoV-2 infections"
@@ -150,7 +150,7 @@ items:
     venue: "American Journal of Epidemiology"
     year: 2022
     type: paper
-    tags: [interventions]
+    tags: [ecology]
     senior: true
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9383750/"
 
@@ -176,7 +176,7 @@ items:
     venue: "Clinical Infectious Diseases"
     year: 2021
     type: paper
-    tags: [antibiotics]
+    tags: [antibiotics, interventions]
     senior: true
     url: "https://academic.oup.com/cid/article/73/6/e1368/6205093"
 
@@ -185,7 +185,7 @@ items:
     venue: "American Economic Review: Insights"
     year: 2021
     type: paper
-    tags: [interventions]
+    tags: [interventions, ecology]
     url: "https://www.aeaweb.org/content/file?id=15156"
 
   - title: "Viral dynamics of acute SARS-CoV-2 infection and applications to diagnostic and public health strategies"
@@ -211,7 +211,7 @@ items:
     venue: "Clinical Infectious Diseases"
     year: 2021
     type: paper
-    tags: [antibiotics]
+    tags: [antibiotics, interventions]
     senior: true
     url: "https://academic.oup.com/cid/article-abstract/72/9/1568/5805521"
 
@@ -264,7 +264,7 @@ items:
     venue: "MedRxiv"
     year: 2020
     type: preprint
-    tags: [interventions]
+    tags: [ecology, interventions]
     url: "https://www.medrxiv.org/content/10.1101/2020.02.16.20023754.abstract"
 
   - title: "Sparking “The BBC Four Pandemic”: Leveraging citizen science and mobile phones to model the spread of disease"
@@ -272,7 +272,7 @@ items:
     venue: "bioRxiv"
     year: 2020
     type: preprint
-    tags: [interventions]
+    tags: [ecology, interventions]
     url: "https://www.biorxiv.org/content/10.1101/479154.abstract"
 
   - title: "Geographic transmission hubs of the 2009 influenza pandemic in the United States"
