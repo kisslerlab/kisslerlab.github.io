@@ -5,9 +5,10 @@ wide: true
 ---
 
 <p class="mission-line" style="margin: .5rem 0 3rem;">
-  We study <em>how pathogens interact</em>, <em>how our bodies, communities, and
-  societies respond to infection</em>, and <em>how epidemics compound other threats
-  to our well-being</em> — using the latest data, statistics, and computational methods.
+  We study how pathogens and people interact, from the molecular to the global scales. Our ongoing efforts include: 
+  <!-- We study <em>how pathogens interact</em>, <em>how our bodies, communities, and -->
+  <!-- societies respond to infection</em>, and <em>how epidemics compound other threats -->
+  <!-- to our well-being</em> — using the latest data, statistics, and computational methods. -->
 </p>
 
 <div class="research-themes">

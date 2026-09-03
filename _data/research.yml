@@ -77,7 +77,8 @@
   number: "05"
   title: "Disentangling respiratory virus ecology"
   tag: ecology
-  image:
+  image: /assets/images/respiratory-ecology.jpg
+  photo: true
   summary: >-
     Respiratory viruses cause huge numbers of illnesses, hospitalizations, and deaths.
     Their ecology dictates how we respond, including decisions like when, whom, and

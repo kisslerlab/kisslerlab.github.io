@@ -1,7 +1,7 @@
 ---
 permalink: /people/
 title: "People"
-lead: "A small, interdisciplinary group of mathematicians, computer scientists, and epidemiologists, dedicated to improving public health."
+lead: "An interdisciplinary group of mathematicians, computer scientists, and epidemiologists, dedicated to improving public health."
 wide: true
 ---
 
