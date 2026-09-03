@@ -65,7 +65,7 @@ The science itself usually dictates which of these is the most fitting venue. Jo
 For perspectives and reviews, you can structure things however you like. For research articles and research correspondence, however, readers are looking for a very specific structure: the [IMRAD](https://en.wikipedia.org/wiki/IMRAD) structure. IMRAD stands for __Introduction__, __Methods__, __Results__, (and) __Discussion__. The Introduction is meant to start from broad principles and then to gradually drill down into your paper's specific topic. The Methods and Results tell the reader what you did and what you found, with minimal interpretation. The Discussion provides the interpretation of what you found, and then zooms back out to place the research in a broader context. Most descriptions of the IMRAD format will include a schematic that looks something like this (from the [Wikipedia](https://en.wikipedia.org/wiki/IMRAD#/media/File:Wineglass_model_for_IMRaD_structure..png)): 
 
 <center>
-<img src="/assets/images/imrad.png" width="50%">
+<img alt="Diagram of the IMRaD structure of a scientific manuscript" src="/assets/images/imrad.png" width="50%">
 </center>
 
 where the width of each block corresponds to the breadth of your thinking at that stage in the manuscript. 

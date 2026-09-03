@@ -4,7 +4,7 @@ permalink: /people/MaiaRichardsDinger/
 title: ""
 author:
   name   : "Maia Richards-Dinger"
-  avatar : "/assets/images/maia_richardsdinger.png"
+  avatar : "/assets/images/maia_richardsdinger.jpg"
   bio    : PhD Student<br>Department of Applied Mathematics<br>University of Colorado Boulder
   links:
     - label: "Email"
@@ -13,7 +13,6 @@ author:
 author_profile: true
 ---
 
-<!-- <img src="/assets/images/summary.png"> -->
 
 ## Bio 
 

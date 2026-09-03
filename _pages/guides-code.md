@@ -15,7 +15,7 @@ To open the command line, you'll need something like the Terminal app on Mac or 
 When you open the terminal, you should see something that looks like this: 
 
 <center>
-<img src="/assets/images/terminal_ss.png" width="66%">
+<img alt="A code editor and terminal side by side" src="/assets/images/terminal_ss.png" width="66%">
 </center>
 
 The line of text before the "%" sign (sometimes it's a "$" sign) tells you which directory (folder) you're in. The "\~" is shorthand for your home directory.
@@ -23,7 +23,7 @@ The line of text before the "%" sign (sometimes it's a "$" sign) tells you which
 To change directories, use the command `cd`, which stands for "change directory". Shell commands usually take the form of `command -options object`, where the `-options` are, well, optional. Let's navigate to the Desktop, using the command `cd Desktop/`. 
 
 <center>
-<img src="/assets/images/terminal-desktop-ss.png" width="66%">
+<img alt="A terminal-based desktop workflow" src="/assets/images/terminal-desktop-ss.png" width="66%">
 </center>
 
 Great! Now you should see the word `Desktop` before the `%` or `$` sign, indicating that you're now in your Desktop directory. 

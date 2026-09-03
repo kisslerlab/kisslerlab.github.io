@@ -4,7 +4,7 @@ permalink: /people/NourRahalArabi/
 title: ""
 author:
   name   : "Nour Rahal-Arabi"
-  avatar : "/assets/images/nour2.png"
+  avatar : "/assets/images/nour2.jpg"
   bio    : MS Student<br>Department of Computer Science<br>University of Colorado Boulder
   links:
     - label: "Email"
@@ -13,7 +13,6 @@ author:
 author_profile: true
 ---
 
-<!-- <img src="/assets/images/summary.png"> -->
 
 ## Bio 
 

@@ -19,7 +19,7 @@ current:
   - name: "Maia Richards-Dinger"
     role: "PhD Student"
     dept: "Applied Mathematics"
-    photo: /assets/images/maia_richardsdinger.png
+    photo: /assets/images/maia_richardsdinger.jpg
     page: /people/MaiaRichardsDinger/
 
   - name: "Lucy Wilson"
@@ -44,5 +44,5 @@ alumni:
   - name: "Nour Rahal-Arabi"
     role: "MS · Computer Science"
     dept: "Computer Science"
-    photo: /assets/images/nour2.png
+    photo: /assets/images/nour2.jpg
     page: /people/NourRahalArabi/

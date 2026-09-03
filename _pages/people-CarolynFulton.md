@@ -13,7 +13,6 @@ author:
 author_profile: true
 ---
 
-<!-- <img src="/assets/images/summary.png"> -->
 
 ## Bio 
 
