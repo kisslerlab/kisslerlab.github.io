@@ -77,6 +77,8 @@ body {
 img { max-width: 100%; height: auto; display: block; }
 a { color: var(--accent); text-decoration: none; }
 a:hover { text-decoration: underline; }
+/* Lighter link blue in dark mode for legibility (buttons keep the brand cobalt). */
+@media (prefers-color-scheme: dark) { a { color: #6b9bf7; } }
 h1,h2,h3,h4 { font-family: var(--font-display); color: var(--ink); line-height: 1.14; font-weight: 600; letter-spacing: -.005em; }
 @media (prefers-color-scheme: dark){ h1,h2,h3,h4{ color: var(--text);} }
 strong { font-weight: 600; }
