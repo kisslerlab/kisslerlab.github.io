@@ -28,6 +28,12 @@ current:
     photo: /assets/images/lucy_wilson.jpg
     page: /people/LucyWilson/
 
+  - name: "Luis X. de Pablo"
+    role: "MS Student"
+    dept: "Computer Science · Ecology and Evolutionary Biology"
+    photo: /assets/images/luis_depablo.jpg
+    page: /people/LuisdePablo/
+
 alumni:
   - name: "Carolyn Fulton"
     role: "PhD Student"
