@@ -385,11 +385,15 @@ strong { font-weight: 600; }
 /* Blank placeholder shown until a figure is added (image: is empty in research.yml). */
 .theme-media--empty { background: var(--paper); box-shadow: none; border: 1.5px dashed #d8d2c4; display: grid; place-items: center; aspect-ratio: 16 / 10; }
 .theme-media__icon { width: 46px; height: 46px; color: #b3ab99; }
+/* Photo figures fill the frame edge-to-edge (no paper padding, no dark invert). */
+.theme-media--photo { padding: 0; }
+.theme-media--photo img { object-fit: cover; }
 /* Dark mode: dark "slate" panel + invert the black line-art to light strokes.
    (Assumes monochrome line art on transparent — the lab's drawing style.) */
 @media (prefers-color-scheme: dark) {
   :root { --paper: #16212e; }
   .theme-media img { filter: invert(1); }
+  .theme-media--photo img { filter: none; }
   .theme-media--empty { border-color: #2b3947; }
   .theme-media__icon { color: #5f6f81; }
 }

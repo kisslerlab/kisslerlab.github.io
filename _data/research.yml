@@ -7,7 +7,8 @@
   number: "01"
   title: "Making viral kinetics a pillar of surveillance"
   tag: viral-kinetics
-  image:
+  image: /assets/images/viralkinetics.jpg
+  photo: true
   summary: >-
     Epidemics are shaped by microbiology, physiology, and behavior.
     <strong>Viral kinetics</strong> are the critical link that allow us to translate
@@ -26,7 +27,8 @@
   number: "02"
   title: "Using diagnostic testing to advance public health"
   tag: surveillance
-  image:
+  image: /assets/images/diagnostic.jpg
+  photo: true
   summary: >-
     Diagnostic tests are normally seen as clinical tools, to decide the best treatment
     course for a patient. But diagnostic testing can play an equally powerful role in
@@ -42,7 +44,8 @@
   number: "03"
   title: "Empowering local, decentralized outbreak response"
   tag: policy
-  image:
+  image: /assets/images/localresponse.jpg
+  photo: true
   summary: >-
     Top-down decisions are often necessary for controlling outbreaks, but they risk
     overlooking community-specific values and risk factors, and can be too coarse and
@@ -59,7 +62,8 @@
   number: "04"
   title: "Finding the upstream drivers of antibiotic resistance"
   tag: antibiotics
-  image:
+  image: /assets/images/antibiotics.jpg
+  photo: true
   summary: >-
     Antibiotic resistance is one of this century's foremost public health challenges.
     The onus to prevent it is often placed on healthcare providers: prescribe antibiotics
@@ -88,7 +92,8 @@
   number: "06"
   title: "Assessing how outbreaks impact agricultural worker health and food production"
   tag: policy
-  image: /assets/images/agricultural-health.png
+  image: /assets/images/harvest.jpg
+  photo: true
   summary: >-
     Outbreaks play out differently across sectors of society. Agriculture is especially
     vulnerable to epidemics: agricultural workers are often highly mobile, face unique

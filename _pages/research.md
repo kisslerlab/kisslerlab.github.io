@@ -14,7 +14,7 @@ wide: true
 {% for theme in site.data.research %}
   {% assign is_even = forloop.index | modulo: 2 %}
   <section class="theme-row{% if is_even == 0 %} theme-row--rev{% endif %}" id="{{ theme.id }}">
-    <div class="theme-media{% unless theme.image %} theme-media--empty{% endunless %}">
+    <div class="theme-media{% unless theme.image %} theme-media--empty{% endunless %}{% if theme.photo %} theme-media--photo{% endif %}">
       {% if theme.image %}
         <img src="{{ theme.image | relative_url }}" alt="Figure illustrating {{ theme.title | downcase }}">
       {% else %}
