@@ -1,4 +1,4 @@
-# The lab's five research threads, shown as the alternating rows on /research/.
+# The lab's six research threads, shown as the alternating rows on /research/.
 # `image` is intentionally left blank — each row renders a placeholder box until
 # you add a figure, e.g.  image: /assets/images/viral-kinetics.png
 # `tag` links a thread to the matching filter chip on the publications list.
@@ -11,11 +11,11 @@
   photo: true
   summary: >-
     Epidemics are shaped by microbiology, physiology, and behavior.
-    <strong>Viral kinetics</strong> are the critical link that allow us to translate
-    across these scales: the rise and fall of viral levels in the body during an
-    infection simultaneously bears the imprint of the struggle between the virus and
-    the immune system and provides the basis for transmission. Viral kinetics have
-    revolutionized our understanding of important pathogens like HIV and SARS-CoV-2,
+    <strong>Viral kinetics</strong> are the critical link that translates
+    across these scales: the time-course of viral levels in the body during an
+    infection reflects the struggle between the virus and
+    the immune system while also forming the basis for transmission. Viral kinetics
+    have revolutionized our understanding of pathogens like HIV and SARS-CoV-2,
     but unlike pathogen genomics (the micro-scale) and morbidity and mortality
     statistics (the population scale), we rarely do active surveillance on viral
     kinetics (the intermediate scale). We're setting out to change that: we are
@@ -30,14 +30,14 @@
   image: /assets/images/diagnostic.jpg
   photo: true
   summary: >-
-    Diagnostic tests are normally seen as clinical tools, to decide the best treatment
+    Diagnostic tests are normally used as clinical tools to decide the best treatment
     course for a patient. But diagnostic testing can play an equally powerful role in
     curbing outbreaks. Often, the optimal criteria for testing platforms — their
     sensitivity, specificity, cost, and production volume — differ depending on whether
-    they are used for clinical or public health purposes; but our regulatory frameworks
-    prioritize clinical uses, so that potentially life-saving public health diagnostics
-    remain sub-optimal or never make it to market. We're working to make public health
-    testing co-equal with its clinical counterpart, using modeling and simulations to
+    they are used for clinical or public health purposes. But our regulatory frameworks
+    prioritize clinical uses, so potentially life-saving public health diagnostics
+    remain poorly optimized or never make it to market. We're working to make public
+    health testing co-equal with its clinical counterpart, using modeling and simulations to
     lay out public health use-cases for novel diagnostics.
 
 - id: decentralized-response
@@ -49,14 +49,14 @@
   summary: >-
     Top-down decisions are often necessary for controlling outbreaks, but they risk
     overlooking community-specific values and risk factors, and can be too coarse and
-    cumbersome to respond to a fast-moving outbreak. New digital technologies are making
-    it possible for individuals and local communities to get access to information that
-    was previously only attainable by well-resourced, centralized agencies, making it
-    possible to make more agile and granular public health decisions. We are developing
-    privacy-preserving, mechanistically-grounded, principled outbreak-support tools to
-    enable local communities to test targeted interventions before deploying them and to
-    access advanced modeling capabilities — making it easier to design evidence-based,
-    community-aware interventions.
+    cumbersome to respond to a fast-moving outbreak. New digital technologies can
+    empower individuals and local communities with information that was previously
+    only accessible to well-resourced, centralized agencies, allowing for more agile
+    and granular public health decisions. We are developing privacy-preserving,
+    mechanistically-grounded outbreak-support tools to help local communities test
+    targeted interventions before deploying them and to access advanced
+    scenario-planning capabilities, powering evidence-based, community-aware
+    interventions.
 
 - id: antibiotic-drivers
   number: "04"
@@ -66,8 +66,8 @@
   photo: true
   summary: >-
     Antibiotic resistance is one of this century's foremost public health challenges.
-    The onus to prevent it is often placed on healthcare providers: prescribe antibiotics
-    only when absolutely necessary. But antibiotic use is driven more fundamentally by
+    The onus to prevent it is often placed on healthcare providers, who are instructed
+    to prescribe antibiotics only when absolutely necessary. But antibiotic use is driven more fundamentally by
     disease, which in turn is shaped by vaccination, underlying health conditions, and
     social determinants. We are working to identify these upstream drivers of antibiotic
     prescribing so that we can respond more comprehensively to the antibiotic resistance
