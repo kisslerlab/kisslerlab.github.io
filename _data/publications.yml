@@ -14,6 +14,336 @@ filters:
   - { tag: agriculture,    label: "Agriculture and food system" }
 
 items:
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Spatiotemporal Trends in Group A Streptococcal Pharyngitis in the United States"
+    authors: "Madeleine C Kline, Stephen M Kissler, Lilith K Whittles, Michael L Barnett, Yonatan H Grad"
+    venue: "Clinical Infectious Diseases"
+    year: 2024
+    type: paper
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1093/cid/ciae083"
+    url: "https://doi.org/10.1093/cid/ciae083"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Optimal environmental testing frequency for outbreak surveillance"
+    authors: "Jason W. Olejarz, Kirstin I. Oliveira Roster, Stephen M. Kissler, Marc Lipsitch, Yonatan H. Grad"
+    venue: "Epidemics"
+    year: 2024
+    type: paper
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1016/j.epidem.2024.100750"
+    url: "https://doi.org/10.1016/j.epidem.2024.100750"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Spatiotemporal Trends in Group A Streptococcal Pharyngitis in the United States"
+    authors: "Madeleine C. Kline, Stephen M. Kissler, Lilith K. Whittles, Michael L. Barnett, Yonatan H. Grad"
+    venue: "I"
+    year: 2023
+    type: preprint
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1101/2023.11.16.23298647"
+    url: "https://doi.org/10.1101/2023.11.16.23298647"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Viral kinetics of sequential SARS-CoV-2 infections"
+    authors: "Stephen M. Kissler, James A. Hay, Joseph R. Fauver, Christina Mack, Caroline G. Tai, Deverick J. Anderson, David D. Ho, Nathan D. Grubaugh, Yonatan H. Grad"
+    venue: "Nature Communications"
+    year: 2023
+    type: paper
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1038/s41467-023-41941-z"
+    url: "https://doi.org/10.1038/s41467-023-41941-z"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Optimal environmental testing frequency for outbreak surveillance"
+    authors: "Jason W. Olejarz, Kirstin I. Oliveira Roster, Stephen M. Kissler, Marc Lipsitch, Yonatan H. Grad"
+    venue: "P"
+    year: 2023
+    type: preprint
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1101/2023.09.14.23295550"
+    url: "https://doi.org/10.1101/2023.09.14.23295550"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Low Antibody Titers Demonstrate Significantly Increased Rate of SARS-CoV-2 Infection in a Highly Vaccinated Population from the National Basketball Association"
+    authors: "Caroline G. Tai, Miriam J. Haviland, Steven M. Kissler, Rachel M. Lucia, Michael Merson, Lisa L. Maragakis, David D. Ho, Deverick J. Anderson, John DiFiori, Nathan D. Grubaugh, Yonatan H. Grad, Christina DeFilippo Mack"
+    venue: "I"
+    year: 2023
+    type: preprint
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1101/2023.02.10.23285780"
+    url: "https://doi.org/10.1101/2023.02.10.23285780"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Drug addiction mutations unveil a methylation ceiling in EZH2-mutant lymphoma"
+    authors: "Hui Si Kwok, Allyson M. Freedy, Allison P. Siegenfeld, Julia W. Morriss, Amanda L. Waterbury, Stephen M. Kissler, Brian B. Liau"
+    venue: "C"
+    year: 2022
+    type: preprint
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1101/2022.04.04.486977"
+    url: "https://doi.org/10.1101/2022.04.04.486977"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Analysis of multiple bacterial species and antibiotic classes reveals large variation in the association between seasonal antibiotic use and resistance"
+    authors: "Daphne S. Sun, Stephen M. Kissler, Sanjat Kanjilal, Scott W. Olesen, Marc Lipsitch, Yonatan H. Grad"
+    venue: "PLOS Biology"
+    year: 2022
+    type: paper
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1371/journal.pbio.3001579"
+    url: "https://doi.org/10.1371/journal.pbio.3001579"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Quantifying the impact of immune history and variant on SARS-CoV-2 viral kinetics and infection rebound: a retrospective cohort study"
+    authors: "James A. Hay, Stephen M. Kissler, Joseph R. Fauver, Christina Mack, Caroline G. Tai, Radhika M. Samant, Sarah Connolly, Deverick J. Anderson, Gaurav Khullar, Matthew MacKay, Miral Patel, Shannan Kelly, April Manhertz, Isaac Eiter, Daisy Salgado, Tim Baker, Ben Howard, Joel T. Dudley, Christopher E. Mason, Manoj Nair, Yaoxing Huang, John DiFiori, David D. Ho, Nathan D. Grubaugh, Yonatan H. Grad"
+    venue: "E"
+    year: 2022
+    type: preprint
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1101/2022.01.13.22269257"
+    url: "https://doi.org/10.1101/2022.01.13.22269257"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Infectious disease dynamics and restrictions on social gathering size"
+    authors: "Christopher B Boyer, Eva Rumpler, Stephen M Kissler, Marc Lipsitch"
+    venue: "E"
+    year: 2022
+    type: preprint
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1101/2022.01.07.21268585"
+    url: "https://doi.org/10.1101/2022.01.07.21268585"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Effects of racial/ethnic disparities in healthcare utilization on antibiotic use, United States, 2016/2018"
+    authors: "Scott W. Olesen, Sanjat Kanjilal, Stephen M. Kissler, Daphne S. Sun, Yonatan H. Grad"
+    venue: "I"
+    year: 2021
+    type: preprint
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1101/2021.12.09.21266965"
+    url: "https://doi.org/10.1101/2021.12.09.21266965"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Reduction in Antibiotic Prescribing Attainable With a Gonococcal Vaccine"
+    authors: "Stephen M Kissler, Moriah Mitchell, Yonatan H Grad"
+    venue: "Clinical Infectious Diseases"
+    year: 2021
+    type: paper
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1093/cid/ciab276"
+    url: "https://doi.org/10.1093/cid/ciab276"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Childhood Respiratory Outpatient Visits Correlate With Socioeconomic Status and Drive Geographic Patterns in Antibiotic Prescribing"
+    authors: "Stephen M Kissler, R Monina Klevens, Michael L Barnett, Yonatan H Grad"
+    venue: "The Journal of Infectious Diseases"
+    year: 2021
+    type: paper
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1093/infdis/jiab218"
+    url: "https://doi.org/10.1093/infdis/jiab218"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Modeling the impact of racial and ethnic disparities on COVID-19 epidemic dynamics"
+    authors: "Kevin C Ma, Tigist F Menkir, Stephen Kissler, Yonatan H Grad, Marc Lipsitch"
+    venue: "eLife"
+    year: 2021
+    type: paper
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.7554/elife.66601"
+    url: "https://doi.org/10.7554/elife.66601"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Distinguishing the Roles of Antibiotic Stewardship and Reductions in Outpatient Visits in Generating a 5-Year Decline in Antibiotic Prescribing"
+    authors: "Stephen M Kissler, R Monina Klevens, Michael L Barnett, Yonatan H Grad"
+    venue: "Clinical Infectious Diseases"
+    year: 2020
+    type: paper
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1093/cid/ciaa269"
+    url: "https://doi.org/10.1093/cid/ciaa269"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Human mobility data from the BBC Pandemic project"
+    authors: "Andrew JK Conlan, Petra Klepac, Adam J Kucharski, Stephen Kissler, Maria L Tang, Hannah Fry, Julia R Gog"
+    venue: "E"
+    year: 2021
+    type: preprint
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1101/2021.02.19.21252079"
+    url: "https://doi.org/10.1101/2021.02.19.21252079"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Large variation in the association between seasonal antibiotic use and resistance across multiple bacterial species and antibiotic classes"
+    authors: "Daphne S. Sun, Stephen M. Kissler, Sanjat Kanjilal, Scott W. Olesen, Marc Lipsitch, Yonatan H. Grad"
+    venue: "I"
+    year: 2020
+    type: preprint
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1101/2020.12.21.20248670"
+    url: "https://doi.org/10.1101/2020.12.21.20248670"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Using a real-world network to model localized COVID-19 control strategies"
+    authors: "Josh A. Firth, Joel Hellewell, Petra Klepac, Stephen Kissler, Mark Jit, Katherine E. Atkins, Samuel Clifford, C. Julian Villabona-Arenas, Sophie R. Meakin, Charlie Diamond, Nikos I. Bosse, James D. Munday, Kiesha Prem, Anna M. Foss, Emily S. Nightingale, Kevin van Zandvoort, Nicholas G. Davies, Hamish P. Gibbs, Graham Medley, Amy Gimma, Stefan Flasche, David Simons, Megan Auzenbergs, Timothy W. Russell, Billy J. Quilty, Eleanor M. Rees, Quentin J. Leclerc, W. John Edmunds, Sebastian Funk, Rein M. G. J. Houben, Gwenan M. Knight, Sam Abbott, Fiona Yueqian Sun, Rachel Lowe, Damien C. Tully, Simon R. Procter, Christopher I. Jarvis, Akira Endo, Kathleen O’Reilly, Jon C. Emery, Thibaut Jombart, Alicia Rosello, Arminder K. Deol, Matthew Quaife, Stéphane Hué, Yang Liu, Rosalind M. Eggo, Carl A. B. Pearson, Adam J. Kucharski, Lewis G. Spurgin"
+    venue: "Nature Medicine"
+    year: 2020
+    type: paper
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1038/s41591-020-1036-8"
+    url: "https://doi.org/10.1038/s41591-020-1036-8"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Reductions in commuting mobility correlate with geographic differences in SARS-CoV-2 prevalence in New York City"
+    authors: "Stephen M. Kissler, Nishant Kishore, Malavika Prabhu, Dena Goffman, Yaakov Beilin, Ruth Landau, Cynthia Gyamfi-Bannerman, Brian T. Bateman, Jon Snyder, Armin S. Razavi, Daniel Katz, Jonathan Gal, Angela Bianco, Joanne Stone, Daniel Larremore, Caroline O. Buckee, Yonatan H. Grad"
+    venue: "Nature Communications"
+    year: 2020
+    type: paper
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1038/s41467-020-18271-5"
+    url: "https://doi.org/10.1038/s41467-020-18271-5"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys"
+    authors: "Daniel B. Larremore, Bailey K. Fosdick, Kate M. Bubar, Sam Zhang, Stephen M. Kissler, C. Jessica E. Metcalf, Caroline O. Buckee, Yonatan H. Grad"
+    venue: "I"
+    year: 2020
+    type: preprint
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1101/2020.04.15.20067066"
+    url: "https://doi.org/10.1101/2020.04.15.20067066"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Symbolic transfer entropy reveals the age structure of pandemic influenza transmission from high-volume influenza-like illness data"
+    authors: "Stephen M. Kissler, Cécile Viboud, Bryan T. Grenfell, Julia R. Gog"
+    venue: "Journal of The Royal Society Interface"
+    year: 2020
+    type: paper
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1098/rsif.2019.0628"
+    url: "https://doi.org/10.1098/rsif.2019.0628"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Targeted surveillance strategies for efficient detection of novel antibiotic resistance variants"
+    authors: "Allison L. Hicks, Stephen M. Kissler, Tatum D. Mortimer, Kevin C. Ma, George Taiaroa, Melinda Ashcroft, Deborah A. Williamson, Marc Lipsitch, Yonatan H. Grad"
+    venue: "G"
+    year: 2020
+    type: preprint
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1101/2020.02.12.946533"
+    url: "https://doi.org/10.1101/2020.02.12.946533"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Surveillance to maintain the sensitivity of genotype-based antibiotic resistance diagnostics"
+    authors: "Allison L. Hicks, Stephen M. Kissler, Marc Lipsitch, Yonatan H. Grad"
+    venue: "PLOS Biology"
+    year: 2019
+    type: paper
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1371/journal.pbio.3000547"
+    url: "https://doi.org/10.1371/journal.pbio.3000547"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Symbolic transfer entropy reveals the age structure of pandemic influenza transmission from high-volume influenza-like illness data"
+    authors: "Stephen M Kissler, Cécile Viboud, Bryan T Grenfell, Julia R Gog"
+    venue: "E"
+    year: 2019
+    type: preprint
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1101/19005710"
+    url: "https://doi.org/10.1101/19005710"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Geographic transmission hubs of the 2009 influenza pandemic in the United States"
+    authors: "Stephen M. Kissler, Julia R. Gog, Cécile Viboud, Vivek Charu, Ottar N. Bjørnstad, Lone Simonsen, Bryan T. Grenfell"
+    venue: "Epidemics"
+    year: 2019
+    type: paper
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1016/j.epidem.2018.10.002"
+    url: "https://doi.org/10.1016/j.epidem.2018.10.002"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Who teaches children to forage? Exploring the primacy of child-to-child teaching among Hadza and BaYaka Hunter-Gatherers of Tanzania and Congo"
+    authors: "Sheina Lew-Levy, Stephen M. Kissler, Adam H. Boyette, Alyssa N. Crittenden, Ibrahim A. Mabulla, Barry S. Hewlett"
+    venue: "Evolution and Human Behavior"
+    year: 2020
+    type: paper
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1016/j.evolhumbehav.2019.07.003"
+    url: "https://doi.org/10.1016/j.evolhumbehav.2019.07.003"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Sparking “The BBC Four Pandemic”: Leveraging citizen science and mobile phones to model the spread of disease"
+    authors: "Stephen M. Kissler, Petra Klepac, Maria Tang, Andrew J.K. Conlan, Julia R. Gog"
+    venue: "E"
+    year: 2018
+    type: preprint
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1101/479154"
+    url: "https://doi.org/10.1101/479154"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Contagion! The BBC Four Pandemic – The model behind the documentary"
+    authors: "Petra Klepac, Stephen Kissler, Julia Gog"
+    venue: "Epidemics"
+    year: 2018
+    type: paper
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1016/j.epidem.2018.03.003"
+    url: "https://doi.org/10.1016/j.epidem.2018.03.003"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Human mobility and the spatial transmission of influenza in the United States"
+    authors: "Vivek Charu, Scott Zeger, Julia Gog, Ottar N. Bjørnstad, Stephen Kissler, Lone Simonsen, Bryan T. Grenfell, Cécile Viboud"
+    venue: "PLOS Computational Biology"
+    year: 2017
+    type: paper
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1371/journal.pcbi.1005382"
+    url: "https://doi.org/10.1371/journal.pcbi.1005382"
+
+  # TODO: set tags + confirm `senior` (added by ORCID sync)
+  - title: "Determination of personalized diabetes treatment plans using a two-delay model"
+    authors: "S.M. Kissler, C. Cichowitz, S. Sankaranarayanan, D.M. Bortz"
+    venue: "Journal of Theoretical Biology"
+    year: 2014
+    type: paper
+    tags: []          # TODO: e.g. [viral-kinetics, surveillance]
+    senior: false     # TODO: true if Stephen is first/last/co-senior
+    doi: "10.1016/j.jtbi.2014.06.005"
+    url: "https://doi.org/10.1016/j.jtbi.2014.06.005"
+
   - title: "Inferring infectiousness: a joint model of the within-host viral kinetics of SARS-CoV-2"
     authors: "Christopher B. Boyer, Stephen M. Kissler, Seran Hakki, Jakob Jonnerby, Ajit Lalvani, Marc Lipsitch"
     venue: "arXiv"
