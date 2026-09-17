@@ -34,6 +34,12 @@ current:
     photo: /assets/images/luis_depablo.jpg
     page: /people/LuisdePablo/
 
+  - name: "Patricia Simaku"
+    role: "MPH Student"
+    dept: "Epidemiology · Colorado School of Public Health"
+    photo: /assets/images/patricia_simaku.jpg
+    page: /people/PatriciaSimaku/
+
 alumni:
   - name: "Carolyn Fulton"
     role: "PhD Student"
