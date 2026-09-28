@@ -14,6 +14,14 @@ filters:
   - { tag: agriculture,    label: "Agriculture and food system" }
 
 items:
+  - title: "Multicomponent vaccination against seasonal influenza and COVID-19: a strategy to address the continued global burden of disease in adults"
+    authors: "William Schaffner, Stefan Gravenstein, Stephen M. Kissler, Oliver A. Cornely, Darshan Mehta, Manuel García Cenoz, Nevena Vicic, Deborah Rudin"
+    venue: "Vaccine"
+    year: 2026
+    type: paper
+    tags: [interventions]
+    url: "https://doi.org/10.1016/j.vaccine.2026.129082"
+
   - title: "Inferring infectiousness: a joint model of the within-host viral kinetics of SARS-CoV-2"
     authors: "Christopher B. Boyer, Stephen M. Kissler, Seran Hakki, Jakob Jonnerby, Ajit Lalvani, Marc Lipsitch"
     venue: "arXiv"

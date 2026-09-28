@@ -9,6 +9,7 @@ description: >-
 ---
 
 ### 2026
+- __Sep 25:__ New paper! [Multicomponent vaccination against seasonal influenza and COVID-19: a strategy to address the continued global burden of disease in adults](https://doi.org/10.1016/j.vaccine.2026.129082) in *Vaccine* with William Schaffner, Stefan Gravenstein, Oliver Cornely, and others.
 - __Aug 10–12:__ Stephen will be at the Workshop on Public Health Policy, Risk Perception, and Infectious Disease in Burlington, VT.
 - __Jul 22:__ New paper! [How understanding the diversity of perspectives and systems in governments can increase the impact of scientific research](https://doi.org/10.1038/s44528-026-00009-2) in *Communications Health* with Liza Hadley and others.
 - __Jul 17:__ New preprint! [How bursty infectiousness shapes epidemic dynamics](https://www.medrxiv.org/content/10.64898/2026.07.15.26358199v1) on medRxiv.
