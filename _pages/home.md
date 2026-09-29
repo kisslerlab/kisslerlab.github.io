@@ -9,6 +9,7 @@ description: >-
 ---
 
 ### 2026
+- __Sep 29:__ New funding! The lab received an [AB Nexus award](https://www.colorado.edu/research/abnexus/2026/09/28/ab-nexus-awards-825000-five-intercampus-research-teams) for the project "Mathematical Modeling to Accelerate Tuberculosis Vaccine Trials." We're designing more efficient strategies for TB vaccine trials using next-generation diagnostics. Co-investigator: Tyler Brown (CU Anschutz).
 - __Sep 25:__ New paper! [Multicomponent vaccination against seasonal influenza and COVID-19: a strategy to address the continued global burden of disease in adults](https://doi.org/10.1016/j.vaccine.2026.129082) in *Vaccine* with William Schaffner, Stefan Gravenstein, Oliver Cornely, and others.
 - __Aug 10–12:__ Stephen will be at the Workshop on Public Health Policy, Risk Perception, and Infectious Disease in Burlington, VT.
 - __Jul 22:__ New paper! [How understanding the diversity of perspectives and systems in governments can increase the impact of scientific research](https://doi.org/10.1038/s44528-026-00009-2) in *Communications Health* with Liza Hadley and others.
