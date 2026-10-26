@@ -9,7 +9,7 @@ author:
   links:
     - label: "CV"
       icon: "fas fa-fw fa-link"
-      url: "/assets/documents/Kissler_CV_2026-03-19.pdf"
+      url: "/assets/documents/Kissler_CV_2026-10-25.pdf"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?hl=en&user=09rvmTIAAAAJ"
