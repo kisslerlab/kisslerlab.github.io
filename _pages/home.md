@@ -9,6 +9,7 @@ description: >-
 ---
 
 ### 2026
+- __Oct 29:__ The lab received an International Exchange Award from the Royal Society for the project "Improving vaccine targeting and timing for different pathogens and populations", with principal investigator Robin Thompson (Oxford).
 - __Oct 28:__ [Modeling the impact of respiratory disease outbreaks on the United States agricultural workforce](https://www.medrxiv.org/content/10.64898/2026.03.31.26349871v1) with Katherine Bardsley, Luis de Pablo, Emma Keppler Canada, Naia Ormaza Zulueta, and Zia Mehrabi, is now accepted in *Communications Health*.
 - __Oct 21:__ New preprint! [Can identifying recent Mycobacterium tuberculosis infection support faster tuberculosis vaccine trials?](https://www.medrxiv.org/content/10.64898/2026.10.19.26365122v1) on medRxiv with Liza Hadley, Tyler Brown, and Kristin Nelson.
 - __Sep 29:__ The lab received an [AB Nexus award](https://www.colorado.edu/research/abnexus/2026/09/28/ab-nexus-awards-825000-five-intercampus-research-teams) for the project "Mathematical Modeling to Accelerate Tuberculosis Vaccine Trials." We're designing more efficient strategies for TB vaccine trials using next-generation diagnostics. Co-investigator: Tyler Brown (CU Anschutz).
